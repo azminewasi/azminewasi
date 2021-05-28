@@ -42,4 +42,12 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&layout=compact" alt="azminewasi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azminewasi&" alt="azminewasi" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=azminewasi)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azminewasi)  
+
+![GitHub metrics](https://metrics.lecoq.io/azminewasi)  
+

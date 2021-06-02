@@ -1,25 +1,15 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
 <h3 align="center">Programmer | App Developer | Proficient with IT, Automation & Data | Studying Machine Learning & Data Science | IPE Undergrad | Designer | Writer</h3>
 
-- 🔭 I’m currently working on [Wote!](https://play.google.com/store/apps/details?id=xioxostic.creations.wotes)
 
-- 🌱 I’m currently learning **Machine Learning, Data Science, Android Develooment**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Android Development**
 
-- 👯 I’m looking to collaborate on [Data Science Learning, Machine Learning](Data Science Learning)
-
-- 🤝 I’m looking for help with [Data Science Learning](https://github.com/azminewasi/CourseProjectsWasi)
-
-- 👨‍💻 All of my projects are available at [https://github.com/azminewasi](https://github.com/azminewasi)
-
-- 📝 I regularly write articles on [https://xioxosticcreations.tech.blog/](https://xioxosticcreations.tech.blog/)
+- 📝 I regularly write articles on [http://azminewasi.github.io/](http://azminewasi.github.io/)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **azminetoushik.wasi@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
 
-- ⚡ Fun fact **Awards & Prizes: > SILVER AWARD - The Queen's Commonwealth Essay Competition - 2019 > What Liberation Means to Me? - Top 20, 2021 > Digital Excellency - Excellency of the Month , BAHRN > March, 2021 > NHSPC - 2016, 2017; ISCPC 2019 > Olympiad Winner of Physics, Chemistry, Zoology, Earth Science, IYMC - 2019, IYMC-2020**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

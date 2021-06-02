@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
-<h3 align="center">Programmer | App Developer | Proficient with IT, Automation & Data | Studying Machine Learning & Data Science | IPE Undergrad | Designer | Writer</h3>
+<h3 align="center">Experienced with IT Automation, Data, Web & Tech Writing </br> Machine Learning & Data Science Explorer | Programmer - App Developer - Designer/h3>
 
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, Android Development**

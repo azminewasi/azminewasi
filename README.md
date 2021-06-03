@@ -3,6 +3,8 @@
 
 <h4 align="center">Passionate, hard-working IT professional with good amount of experience and skills in programming, data science, artificial intelligence and machine learning, website and mobile application development, graphics design and content writing - marketing. Worked with many startups as well as well-known companies providing IT Automation, graphics design, data analytics, content marketing, event management and operations support for them. Also a good award winning writer, artist, and a good trainer. Love to learn new things, experiment and challenge acquired skills.</h4>
 
+
+
 - 🌱 I’m currently learning **Machine Learning, Data Science, Android Development**
 
 - 📝 I regularly write articles on [http://azminewasi.github.io/](http://azminewasi.github.io/)

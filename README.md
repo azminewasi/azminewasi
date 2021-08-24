@@ -13,6 +13,8 @@
 
 - 📄 Get connected [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
 
+- 📝 Know me better [Azmine Toushik Wasi] (http://azminewasi.github.io/)
+
 
 
 

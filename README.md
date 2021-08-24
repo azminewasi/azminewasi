@@ -6,12 +6,8 @@
 
 
 - 🌱 I’m currently learning **Data Analysis, Machine Learning, Data Science**
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@azmine_wasi)
-- 
 - 📝 View my designing works on [Behance](https://www.behance.net/azmine_wasi)
-
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
 
 

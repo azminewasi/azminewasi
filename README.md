@@ -11,7 +11,9 @@
 
 - 📝 View my designing works on [Behance](https://www.behance.net/azmine_wasi)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
+- 📄 Get connected [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
+
+
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azminewasi)  

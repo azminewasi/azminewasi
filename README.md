@@ -11,9 +11,9 @@
 
 - 📝 View my designing works on [Behance](https://www.behance.net/azmine_wasi)
 
-- 📄 Get connected [https://www.linkedin.com/in/azmine-toushik-wasi/](https://www.linkedin.com/in/azmine-toushik-wasi/)
+- 📄 Get connected on [Linkedin](https://www.linkedin.com/in/azmine-toushik-wasi/)
 
-- 📝 Know me better [Azmine Toushik Wasi] (http://azminewasi.github.io/)
+- 📝 Know me better [Azmine Toushik Wasi](http://azminewasi.github.io/)
 
 
 

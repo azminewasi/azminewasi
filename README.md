@@ -28,6 +28,3 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azminewasi)  
-
-

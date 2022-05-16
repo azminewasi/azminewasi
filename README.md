@@ -5,6 +5,12 @@
 Experienced in Programming, IT Automation & Product Development</br>
 Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
 
+<p align=center>
+<a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Personal-Website-%1020beff"></a>
+<a href="https://medium.com/@azmine_wasi"><img height="25" src="https://img.shields.io/badge/Medium-Blogs-%1020beff"></a>
+</p>
+
 ---
 <h4 align="center">
 An idealist with distinguished experience, and expertise in numerous fields including Programming, IT, Automation, Design, Ed-Tech, Product & Content Development and Project Management.</br>
@@ -18,6 +24,7 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light)
+
 
 ---
 I'm currently:

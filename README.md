@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
+
+---
 <h3 align="center">Kaggle Expert (x2) | Machine Learning & Data Science Explorer</br>
 Experienced in Programming, IT Automation & Product Development</br>
 Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
 
+---
 <h4 align="center">
 An idealist with distinguished experience, and expertise in numerous fields including Programming, IT, Automation, Design, Ed-Tech, Product & Content Development and Project Management.</br>
 Currently, chasing the clock while exploring Data Science, Machine Learning and IT Automation.</br>
@@ -11,20 +14,24 @@ Also a tech writer, winner & judge of the The Queens's Commonwealth Essay Compet
 Love to learn new things, improve & experiment with acquired skills and challenge my capabilities.</br>
 </h4>
 
+---
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light)
 
-
-- 🌱 I’m currently learning **Data Analysis, Machine Learning, Data Science**
-
+---
+I'm currently:
+- 👩‍💻 Manager at BasaKhujo
+- 👩‍💻 Executive at Black Brains
+- 🌱 Sharpening my Data Science and Machine Learning skill set
+- 👯 Looking to collaborate on Kaggle competitions
+- 
+---
 - 📝 I regularly write articles on [Medium](https://medium.com/@azmine_wasi)
-
 - 📝 View my data science works on [Kaggle](https://www.kaggle.com/azminetoushikwasi)
-
 - 📄 Get connected on [Linkedin](https://www.linkedin.com/in/azmine-toushik-wasi/)
-
 - 📄 Get connected on [Twitter](https://mobile.twitter.com/AzmineWasi)
-
 - 📝 Know me better [Azmine Toushik Wasi](http://azminewasi.github.io/)
-
 
 
 

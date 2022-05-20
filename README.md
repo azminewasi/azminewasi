@@ -28,16 +28,14 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 
 ---
 **I'm currently**:
-- 👩‍💻 Manager at BasaKhujo
-- 👩‍💻 Executive at Black Brains
+- 👩‍💻 Working at Basa Khujo
 - 🌱 Sharpening my Data Science and Machine Learning skill set
-- 👯 Looking to collaborate on Kaggle competitions
+- 👯 Looking to collaborate on Kaggle
 
 ---
 - 📝 I write articles on [Medium](https://medium.com/@azmine_wasi)
-- 📝 View my data science works on [Kaggle](https://www.kaggle.com/azminetoushikwasi)
+- 📝 View my works on [Kaggle](https://www.kaggle.com/azminetoushikwasi)
 - 📄 Get connected on [Linkedin](https://www.linkedin.com/in/azmine-toushik-wasi/)
-- 📄 Get connected on [Twitter](https://mobile.twitter.com/AzmineWasi)
 - 📝 Know me better [Azmine Toushik Wasi](http://azminewasi.github.io/)
 
 ---

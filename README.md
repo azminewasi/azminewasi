@@ -48,3 +48,12 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 - **IT**: IT Automation (Intermediate), Software Troubleshooting, Advanced in IT and computer Skills
 - Product Development, Project Management and Strategic Planning and Analysis.
 
+---
+**Favorite Works** :
+- Notebooks
+  - [EDA + Statistical Analytics 🏭 EPZs of Bangladesh](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
+  - [➡️ [Tutorial] ✅ 07 Cross Validation Methods 📑📊📉](https://www.kaggle.com/code/azminetoushikwasi/tutorial-07-cross-validation-methods)
+- Datasets
+  - [✅ Gameloft 🎡 Android Games Data + Reviews ▶ 2022](https://www.kaggle.com/datasets/azminetoushikwasi/gameloft-android-games-collection-2022)
+  - [⚽ Cristiano Ronaldo ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
+  - [⚽ Lionel Messi ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals)

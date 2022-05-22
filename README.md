@@ -25,12 +25,12 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light)
 
-
 ---
 **I'm currently**:
-- 👩‍💻 Working at Basa Khujo
 - 🌱 Sharpening my Data Science and Machine Learning skill set
+- 🔍 Looking for a data-related job (Part-time, Remote / Project based, Remote)
 - 👯 Looking to collaborate on Kaggle
+
 
 ---
 - 📝 I write articles on [Medium](https://medium.com/@azmine_wasi)
@@ -40,8 +40,8 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 
 ---
 **Skills** :
-- **Programming**: Python (Advanced), C (For Contests)
-- **DS & ML** : Python (NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret), R, SQL
+- **Programming**: Python (Advanced), C (For Contests), R, SQL
+- **DS & ML Libraries (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret
 - **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI
 - **IT**: IT Automation (Intermediate), Software Troubleshooting, Advanced in IT and computer Skills
 - Product Development, Project Management and Strategic Planning and Analysis.

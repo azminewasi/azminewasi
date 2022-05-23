@@ -57,4 +57,4 @@ Love to learn new things, improve & experiment with acquired skills and challeng
   - [⚽ Cristiano Ronaldo ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
   - [⚽ Lionel Messi ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals)
 - Discussions
-  - [Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20))
+  - [Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20)

@@ -43,8 +43,9 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 - **Programming**: Python (Advanced), C (For Contests), R, SQL
 - **DS & ML Libraries (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret
 - **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI
-- **IT**: IT Automation (Intermediate), Software Troubleshooting, Advanced in IT and computer Skills
-- Product Development, Project Management and Strategic Planning and Analysis.
+- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, OpenCV Photo Manipulations
+- **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills
+- Product Development, Project Management, Research and Development, and Strategic Planning and Analysis.
 
 ---
 **Favorite Works** :

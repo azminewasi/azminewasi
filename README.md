@@ -13,11 +13,10 @@ Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
 
 ---
 <h4 align="center">
-An idealist with distinguished experience, and expertise in numerous fields including Programming, IT, Automation, Design, Ed-Tech, Product & Content Development and Project Management.</br>
-<b>Currently, chasing the clock while exploring Data Science, Machine Learning and IT Automation.</b></br>
-Working with numerous thriving Ed-Tech start-ups (Shikho and 10 Minute School), as well as many eminent clubs and organizations (Black Brains, BYSO, UN Online Volunteers, Science Bee, Shondhi, GDN-SUST) providing product development, technical, managerial and creative support for them.</br>
-Also a tech writer, winner & judge of the The Queens's Commonwealth Essay Competition and a mediocre artist ;p.</br>
-Love to learn new things, improve & experiment with acquired skills and challenge my capabilities.</br>
+An idealist with distinguished experience, and expertise in Programming, IT Automation, Product Development, Project Management and Strategic Planning and Analysis.
+Currently, exploring Data Science, Machine Learning and IT Automation.</br>
+Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations (Black Brains, BYSO, UN Online Volunteers, Science Bee, Shondhi, GDN-SUST, Royal Commonwealth Society) providing product development, technical, managerial and creative support for them. Also a writer and designer by heart.</br>
+Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.</br>
 </h4>
 
 ---
@@ -40,16 +39,18 @@ Love to learn new things, improve & experiment with acquired skills and challeng
 
 ---
 **Skills** :
-- **Programming**: Python (Advanced), C (For Contests), R, SQL
-- **DS & ML Libraries (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret
-- **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI
+- **Programming**: Python (Advanced), C (For Contests), , R, SQL<br>
+- **DS & ML** : Python (NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret) <br>
+- **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI<br>
 - **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, OpenCV Photo Manipulations
 - **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills
-- Product Development, Project Management, Research and Development, and Strategic Planning and Analysis.
+- Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
+
 
 ---
 **Favorite Works** :
 - Notebooks
+  - [➡️ Intro to Imputation 🔍 Different Techniques](https://www.kaggle.com/code/azminetoushikwasi/intro-to-imputation-different-techniques)
   - [Divorce 💥 XGBoost 📊 PCA Analysis with SHAP,TSNE](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - [📋 Bias-Variance Tradeoff ➡️ with NumPy & Seaborn](https://www.kaggle.com/code/azminetoushikwasi/bias-variance-tradeoff-with-numpy-seaborn)
   - [EDA + Statistical Analytics 🏭 EPZs of Bangladesh](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
@@ -61,4 +62,5 @@ Love to learn new things, improve & experiment with acquired skills and challeng
   - [⚽ Cristiano Ronaldo ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
   - [⚽ Lionel Messi ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals)
 - Discussions
-  - [Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20)
+  - [Journal Papers, Kernels, Blogs | Learn and Explore in TPS Jun 2022](https://www.kaggle.com/competitions/tabular-playground-series-jun-2022/discussion/328676)
+  - [Other Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20)

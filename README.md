@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
 
 ---
-<h3 align="center">Kaggle Expert (x3) | Machine Learning & Data Science Explorer</br>
+<h3 align="center">Kaggle Master | Kaggle Expert (x2)</br>
+Machine Learning & Data Science Explorer</br>
 Experienced in Programming, IT Automation & Product Development</br>
 Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
 

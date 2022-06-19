@@ -47,6 +47,10 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
+---
+## **DataCamp Signal™ Assessments Results :** 
+- [Understanding and Interpreting Data](https://assessment-v2.datacamp.com/fc2f1282-3cca-4647-ba91-06b42656c14d/results?returnUrl=)
+  - JUN 18, 2022 | Score : 177 | Percentile : **Better than 99%**
 
 ---
 **Favorite Works** :

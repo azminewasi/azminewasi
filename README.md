@@ -61,7 +61,6 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Notebooks
   - [➡️ Intro to Imputation 🔍 Different Techniques](https://www.kaggle.com/code/azminetoushikwasi/intro-to-imputation-different-techniques)
   - [Divorce 💥 XGBoost 📊 PCA Analysis with SHAP,TSNE](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
-  - [📋 Bias-Variance Tradeoff ➡️ with NumPy & Seaborn](https://www.kaggle.com/code/azminetoushikwasi/bias-variance-tradeoff-with-numpy-seaborn)
   - [EDA + Statistical Analytics 🏭 EPZs of Bangladesh](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
   - [➡️ [Tutorial] ✅ 07 Cross Validation Methods 📑📊📉](https://www.kaggle.com/code/azminetoushikwasi/tutorial-07-cross-validation-methods)
 - Datasets

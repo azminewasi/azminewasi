@@ -24,7 +24,6 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light)
-![Azmine Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true&theme=gruvbox)
 
 ---
 **I'm currently**:
@@ -71,3 +70,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Discussions
   - [Journal Papers, Kernels, Blogs | Learn and Explore in TPS Jun 2022](https://www.kaggle.com/competitions/tabular-playground-series-jun-2022/discussion/328676)
   - [Other Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20)
+  
+  ---
+  
+![Azmine Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true&theme=gruvbox)

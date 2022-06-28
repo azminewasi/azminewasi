@@ -24,6 +24,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light)
+![Azmine Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true&theme=gruvbox)
 
 ---
 **I'm currently**:

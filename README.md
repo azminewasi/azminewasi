@@ -55,6 +55,8 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
   - JUN 26, 2022 | Score : 145 | Percentile : Better than 93%
 - Machine Learning Fundamentals in Python
   - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
+- Importing and Cleaning with Python
+  - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
 
 ---
 **Favorite Works** :

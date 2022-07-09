@@ -52,7 +52,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
 - Python Programming
-  - JUN 26, 2022 | Score : 145 | Percentile : Better than 93%
+  - JUL 09, 2022 | Score : 174 | Percentile : Better than 99%
 - Machine Learning Fundamentals in Python
   - APR 28, 2021 | Score : 158 |  Percentile : Better than 98%
 - Importing and Cleaning with Python

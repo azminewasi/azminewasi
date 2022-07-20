@@ -49,14 +49,16 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 
 ---
 ## **DataCamp Signal™ Assessments Results :** 
-- Python Programming
-  - JUL 09, 2022 | Score : 174 | Percentile : Better than 99%
 - Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
+- Python Programming
+  - JUL 09, 2022 | Score : 174 | Percentile : Better than 99%
 - Machine Learning Fundamentals in Python
   - JUL 09, 2022 | Score : 165 |  Percentile : Better than 98%
 - Importing and Cleaning with Python
   - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
+- Exploratory Analysis Theory
+  - JUL 20, 2022 | Score : 179 |  Percentile : Better than 99%
 
 ---
 **Favorite Works** :

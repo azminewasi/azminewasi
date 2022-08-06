@@ -21,9 +21,12 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 </h4>
 
 ---
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light)
-![Azmine Wasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true&theme=gruvbox)
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light"> &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light"> &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light">
+</p>
 
 ---
 **I'm currently**:
@@ -48,7 +51,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
 ---
-## **DataCamp Signal™ Assessments Results :** 
+## **[DataCamp Signal™ Assessments Results](https://github.com/azminewasi/DataCamp/tree/main/Assessment%20-%20Results) :**
 - Understanding and Interpreting Data
   - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
 - Python Programming
@@ -61,9 +64,8 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
   - JUL 20, 2022 | Score : 179 |  Percentile : Better than 99%
 
 ---
-**Favorite Works** :
+## **Favorite Works** :
 - Notebooks
-  - [➡️ Intro to Imputation 🔍 Different Techniques](https://www.kaggle.com/code/azminetoushikwasi/intro-to-imputation-different-techniques)
   - [Divorce 💥 XGBoost 📊 PCA Analysis with SHAP,TSNE](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - [EDA + Statistical Analytics 🏭 EPZs of Bangladesh](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
   - [➡️ Intro to Clustering 🔍 Techniques, Algorithms](https://www.kaggle.com/code/azminetoushikwasi/intro-to-clustering-techniques-algorithms)
@@ -71,9 +73,3 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Datasets
   - [UCL ⚽ 2021-22 ⭐ Players Data | Champions League](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league)
   - [✅ Gameloft 🎡 Android Games Data + Reviews ▶ 2022](https://www.kaggle.com/datasets/azminetoushikwasi/gameloft-android-games-collection-2022)
-  - [⚽ Cristiano Ronaldo ⭐ All Club Goals 📈📊](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
-- Discussions
-  - [Journal Papers, Kernels, Blogs | Learn and Explore in TPS Jun 2022](https://www.kaggle.com/competitions/tabular-playground-series-jun-2022/discussion/328676)
-  - [Other Kaggle Topics](https://www.kaggle.com/azminetoushikwasi/discussion?sortBy=mostVotes&group=topics&page=1&pageSize=20)
-  
- 

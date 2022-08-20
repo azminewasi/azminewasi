@@ -29,7 +29,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 </p>
 
 ---
-**I'm currently**:
+## **I'm currently**:
 - 🌱 Sharpening my Data Science and Machine Learning skill set
 - 🔍 Looking for a data-related job (Part-time, Remote / Project based, Remote)
 - 👯 Looking to collaborate on Kaggle
@@ -42,7 +42,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - 📝 Know me better [Azmine Toushik Wasi](http://azminewasi.github.io/)
 
 ---
-**Skills** :
+## **Skills** :
 - **Programming**: Python (Advanced), C (For Contests), , R, SQL<br>
 - **DS & ML** : Python (NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret) <br>
 - **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI<br>
@@ -51,25 +51,39 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
 ---
-## **[DataCamp Signal™ Assessments Results](https://github.com/azminewasi/DataCamp/tree/main/Assessment%20-%20Results) :**
-- Understanding and Interpreting Data
-  - JUN 18, 2022 | Score : 177 | Percentile : Better than 99%
-- Python Programming
-  - JUL 09, 2022 | Score : 174 | Percentile : Better than 99%
-- Machine Learning Fundamentals in Python
-  - JUL 09, 2022 | Score : 165 |  Percentile : Better than 98%
-- Importing and Cleaning with Python
-  - JUL 02, 2022 | Score : 150 |  Percentile : Better than 95%
-- Exploratory Analysis Theory
-  - JUL 20, 2022 | Score : 179 |  Percentile : Better than 99%
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&hide=javascript,html,css,tex,go" alt="azminewasi" height="200"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="200"/>
+
+</p>
 
 ---
-## **Favorite Works** :
-- Notebooks
+## **Favorite Projects** :
+- **Notebooks**
   - [Divorce 💥 XGBoost 📊 PCA Analysis with SHAP,TSNE](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - [EDA + Statistical Analytics 🏭 EPZs of Bangladesh](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
-  - [➡️ Intro to Clustering 🔍 Techniques, Algorithms](https://www.kaggle.com/code/azminetoushikwasi/intro-to-clustering-techniques-algorithms)
-  - [➡️ [Tutorial] ✅ 07 Cross Validation Methods 📑📊📉](https://www.kaggle.com/code/azminetoushikwasi/tutorial-07-cross-validation-methods)
-- Datasets
+- **Datasets**
   - [UCL ⚽ 2021-22 ⭐ Players Data | Champions League](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league)
   - [✅ Gameloft 🎡 Android Games Data + Reviews ▶ 2022](https://www.kaggle.com/datasets/azminetoushikwasi/gameloft-android-games-collection-2022)
+
+---
+## **Medium Blogs** :
+- **Data Science Intro**
+  - [Data Science : Exploring the Sector](https://medium.com/@azmine_wasi/data-science-exploring-the-sector-eaf48d5d481e)
+  - [Data Science: Tools (Programming Language, Software and Online Tools)](https://medium.com/@azmine_wasi/data-science-tools-programming-language-software-and-online-tools-344b132a59ad)
+  - [Data Science: Methodology and Approach — What? Why? How?](https://medium.com/@azmine_wasi/data-science-methodology-and-approach-what-why-how-a15a7f611ab1)
+- **Data Science - Topics**
+  - [XGBoost | Wrestling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
+  - [Introduction to Clustering : Discussion about different types of Clustering](https://medium.com/@azmine_wasi/introduction-to-clustering-discussion-about-different-types-of-clustering-dd6af9fbfc21)
+  - [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
+- **Others**
+  - [গুগল সার্চ হ্যাকস — সহজে খুজি গুগলে](https://blog.sciencebee.com.bd/%e0%a6%97%e0%a7%81%e0%a6%97%e0%a6%b2-%e0%a6%b8%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%9a%e0%a7%87-%e0%a6%b9%e0%a6%be%e0%a6%a4%e0%a7%87%e0%a6%96%e0%a7%9c%e0%a6%bf%e0%a6%83-%e0%a6%b8%e0%a6%b9%e0%a6%9c/)
+  - [চয়েজ আর্কিটেকচার — সিদ্ধান্তগুলো কি আমরাই নিচ্ছি?](https://medium.com/@azmine_wasi/choice-architecture-bangla-azminewasi-32ab19d041e5)
+  - [Certificates Hacks: How to Make the BEST Use of Certificates?](https://medium.com/@azmine_wasi/certificates-hacks-how-to-make-the-best-use-of-certificates-91bc35b74600)
+  - [Time Management: Capturing The Golden Deer](https://medium.com/@azmine_wasi/time-management-capturing-the-golden-deer-f1780f4469b6)
+  - [The Art of Problem Solving](https://medium.com/@azmine_wasi/the-art-of-problem-solving-infographic-4ef203f7a787)
+
+---
+## **Other URLs** :
+- [DataCamp Signal™ Assessments Results](https://github.com/azminewasi/DataCamp/tree/main/Assessment%20-%20Results) 

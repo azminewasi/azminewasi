@@ -60,7 +60,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 ## **Projects** :
 
-  - Divorce 💥 XGBoost 📊 Predictions and Reasons Analysis with SHAP,TSNE - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
+  - Divorce Predictions 📊 Reasons Analysis with SHAP,TSNE - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
   - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
   - Lionel Messi | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/lionel-messi-extended-eda-goals)

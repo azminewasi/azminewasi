@@ -53,20 +53,20 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&hide=javascript,html,css,tex,go" alt="azminewasi" height="200"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&hide=javascript,html,css,tex,go" alt="azminewasi" height="150"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="150"/>
 
 </p>
 
 ---
 ## **Projects** :
 
-  - Divorce 💥 XGBoost 📊 PCA Analysis with SHAP,TSNE - [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
-  - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Kaggle Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
-  - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Kaggle Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
-  - Lionel Messi | All Club Goals - [Kaggle Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals) | [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/lionel-messi-extended-eda-goals)
-  - Cristiano Ronaldo | All Club Goals - [Kaggle Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats) | [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis)
-  - Daily AQI - Air Quality Index - [Kaggle Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Kaggle Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
+  - Divorce 💥 XGBoost 📊 Predictions and Reasons Analysis with SHAP,TSNE - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
+  - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
+  - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
+  - Lionel Messi | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/lionel-messi-extended-eda-goals)
+  - Cristiano Ronaldo | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis)
+  - Daily AQI - Air Quality Index - Geosphatical Analysis- [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
 ---
 ## **Medium Blogs** :
 - **Data Science Intro**

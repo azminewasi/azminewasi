@@ -53,9 +53,8 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&hide=javascript,html,css,tex,go" alt="azminewasi" height="150"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="150"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&langs_count=3&hide=javascript,html,css,cpp,go" alt="azminewasi" height="180"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="180"/>
 </p>
 
 ---

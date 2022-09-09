@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
 
 ---
-<h3 align="center">Notebooks Master | Datasets & Discussion Expert @Kaggle</br>
+<h3 align="center">Notebooks Grandmaster | Datasets & Discussion Expert @Kaggle</br>
 Machine Learning & Data Science Explorer</br>
 Experienced in Programming, IT Automation & Product Development</br>
 Writer - Thinker - Analyst | Ed-Tech Veteran</h3>

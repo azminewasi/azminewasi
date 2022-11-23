@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azmine Toushik Wasi</h1>
 
 ---
-<h3 align="center">Kaggle Grandmaster</br>
-Machine Learning & Data Science Explorer</br>
-Experienced in Programming, IT Automation & Product Development</br>
-Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
+<h3 align="center">
+Exploring Machine Learning & Data Science | Kaggle Notebooks Grandmaster </br> 
+Experienced in Programming, IT, Automation, Product, R&D, Analytics </br> 
+Researcher - Tech Writer - Automation Wiz
+</h3>
 
 <p align=center>
 <a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
@@ -14,10 +15,11 @@ Writer - Thinker - Analyst | Ed-Tech Veteran</h3>
 
 ---
 <h4 align="center">
-An idealist with distinguished experience, and expertise in Programming, IT Automation, Product Development, Project Management and Strategic Planning and Analysis.
-Currently, exploring Data Science, Machine Learning and IT Automation.</br>
-Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations (Black Brains, BYSO, UN Online Volunteers, Science Bee, Shondhi, GDN-SUST, Royal Commonwealth Society) providing product development, technical, managerial and creative support for them. Also a writer and designer by heart.</br>
-Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.</br>
+An idealist with distinguished experience, and expertise in Programming (Machine Learning), IT Automation, Research, Product Development, Project Management and Analytics.</br>
+									Currently, exploring Data Science, Machine Learning and IT Automation; </br>involved in several ML research projects in Bioinformatics and Education domains.</br>
+									Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations providing analytical, data-driven, technical, managerial and creative support. Also a writer and designer by heart.</br>
+									Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
+</br>
 </h4>
 
 ---
@@ -46,6 +48,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ## **Skills** :
 - **Programming**: Python (Advanced), C (For Contests), , R, SQL<br>
 - **DS & ML** : Python (NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret) <br>
+- **Research**: GNN, KG <br>
 - **Data Analysis**: MS Excel, SAS Analysis and Visualization, Tableau, Power BI<br>
 - **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, OpenCV Photo Manipulations
 - **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills

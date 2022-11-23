@@ -16,9 +16,10 @@ Researcher - Tech Writer - Automation Wiz
 ---
 <h4 align="center">
 An idealist with distinguished experience, and expertise in Programming (Machine Learning), IT Automation, Research, Product Development, Project Management and Analytics.</br>
-									Currently, exploring Data Science, Machine Learning and IT Automation; </br>involved in several ML research projects in Bioinformatics and Education domains.</br>
-									Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations providing analytical, data-driven, technical, managerial and creative support. Also a writer and designer by heart.</br>
-									Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
+Currently, exploring Data Science, Machine Learning and IT Automation; </br>involved in several ML research projects in Bioinformatics and Education domains.</br>
+Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations providing analytical, data-driven, technical, managerial and creative support. </br>
+Also a moderate tech-writer with few hundreds of fllowers on Medium and Kaggle. </br>
+Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
 </br>
 </h4>
 

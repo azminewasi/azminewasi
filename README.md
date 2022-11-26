@@ -44,11 +44,12 @@ Researcher - Tech Writer - Automation Wiz
 
 ---
 
-## **Active ML Research** :
-  - [Graph Neural Network & Knowledge Graphs In Healthcare](https://azminewasi.github.io/#research)
-    - Implimentation and use of advanced Graph Neural Network Technologies to solve critical problems in Healthcare domain, specially in Drugs (Detetction, Side Effetcts) using Knowledge Graphs.
-  - [Knowledge Graph Generation From Bangla Text (NLP)](https://azminewasi.github.io/#research)
-    - Implimenting efficient and reliable Knowledge graphs from Bangla text data via all purpose NLP models.
+## **Research** :
+- **Reserach Interest:** 
+  - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
+- **Active Works:**
+   - [Graph Neural Network & Knowledge Graphs In Healthcare](https://azminewasi.github.io/#research)
+   - [Knowledge Graph Generation From Bangla Text (NLP)](https://azminewasi.github.io/#research)
 
 ---
 

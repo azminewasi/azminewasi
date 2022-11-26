@@ -11,40 +11,17 @@ Researcher - Tech Writer - Automation Wiz
 <a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 <a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Personal-Website-%1020beff"></a>
 <a href="https://medium.com/@azmine_wasi"><img height="25" src="https://img.shields.io/badge/Medium-Blogs-%1020beff"></a>
+<a href="https://www.linkedin.com/in/azmine-toushik-wasi/"><img height="25" src="https://img.shields.io/badge/Linedin-profile-%2320beff"></a>
 </p>
 
 ---
-<h4 align="center">
-An idealist with distinguished experience, and expertise in Programming (Machine Learning), IT Automation, Research, Product Development, Project Management and Analytics.</br>
-Currently, exploring Data Science, Machine Learning and IT Automation; </br>actvely involved in several ML research projects in Bioinformatics and Education domains.</br>
-Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations providing analytical, data-driven, technical, managerial and creative support. </br>
-Also a moderate tech-writer with few hundreds of followers on Medium and Kaggle. </br>
-Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
-</br>
-</h4>
-
----
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light"> &nbsp;
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light"> &nbsp;
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light">
-</p>
-
----
-## **I'm currently**:
-- 🌱 Sharpening my Data Science and Machine Learning skill set.
-- 🔍 Looking for a data-related job (Part-time, Remote / Project based, Remote).
-- 📝 Involved in several ML research projects.
-- 👯 Looking to collaborate on Kaggle.
-
-
----
-## **Know me better**:
-- 📝 I write articles on [Medium](https://medium.com/@azmine_wasi)
-- 📝 View my works on [Kaggle](https://www.kaggle.com/azminetoushikwasi)
-- 📄 Get connected on [Linkedin](https://www.linkedin.com/in/azmine-toushik-wasi/)
-- 📝 View my personal website [Azmine Toushik Wasi](http://azminewasi.github.io/)
+## **I am** :
+- Experienced in **Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.**
+- Currently, exploring **Data Science, Machine Learning and IT Automation**; **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
+- Actvely involved in several ML research projects in **Bioinformatics and Education** domains.
+- Working/worked with numerous thriving start-ups ([Shikho](https://shikho.tech/), [10 Minute School](https://10minuteschool.com/), [BasaKhujo](https://www.basakhujo.com/), as well as many prestigious club and organizations providing **analytical, data-driven, technical, managerial and creative** support. </br>
+- Also a moderate tech-writer with few hundreds of followers on [Medium](https://medium.com/@azmine_wasi) and [Kaggle](https://www.kaggle.com/azminetoushikwasi/).
+- Passionate to **learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities**.
 
 ---
 ## **Skills** :
@@ -59,8 +36,10 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=azminewasi&show_icons=true&locale=en&langs_count=3&hide=javascript,html,css,cpp,go" alt="azminewasi" height="180"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="180"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light" alt="azminewasi" height="150"/> &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light" alt="azminewasi" height="150"/> &nbsp;
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light" alt="azminewasi" height="150"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="150"/>
 </p>
 
 ---
@@ -81,13 +60,10 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
   - Cristiano Ronaldo | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis)
   - Daily AQI - Air Quality Index - Geosphatical Analysis- [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
 
+
 ---
 
 ## **Medium Blogs** :
 - [XGBoost | Wrangling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
 - [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
 - [Introduction to Clustering : Discussion about different types of Clustering](https://medium.com/@azmine_wasi/introduction-to-clustering-discussion-about-different-types-of-clustering-dd6af9fbfc21)
-
----
-## **Other URLs** :
-- [DataCamp Signal™ Assessments Results](https://github.com/azminewasi/DataCamp/tree/main/Assessment%20-%20Results) 

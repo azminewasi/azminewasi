@@ -8,29 +8,30 @@ Researcher - Tech Writer - Automation Wiz
 </h3>
 
 <p align=center>
-<a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
-<a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Personal-Website-%1020beff"></a>
-<a href="https://medium.com/@azmine_wasi"><img height="25" src="https://img.shields.io/badge/Medium-Blogs-%1020beff"></a>
-<a href="https://www.linkedin.com/in/azmine-toushik-wasi/"><img height="25" src="https://img.shields.io/badge/Linedin-profile-%2320beff"></a>
+<a href="https://www.linkedin.com/in/azmine-toushik-wasi/"><img height="25" src="https://img.shields.io/badge/Linkedin-%2320beff"></a>
+<a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Website-%1020beff"></a>
+<a href="https://medium.com/@azmine_wasi"><img height="25" src="https://img.shields.io/badge/Medium-%1020beff"></a>
+<a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-%2320beff"></a>
 </p>
 
 ---
 ## **I am** :
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.**
 - Currently, exploring **Data Science, Machine Learning and IT Automation**; **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- Actvely involved in [several ML research projects](https://azminewasi.github.io/#research) in **Bioinformatics and Education** domains.
-- Working/worked with numerous thriving start-ups ([10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)), as well as many prestigious club and organizations ([Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [BYSO](https://www.linkedin.com/company/byso-bd/), [Science Bee](https://www.sciencebee.com.bd/)) providing **analytical, data-driven, technical, managerial, mentoring and creative** support. </br>
+- Actvely involved in several ML [research](https://azminewasi.github.io/#research) projects in **Bioinformatics and Education** domains.
+- Working/worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. </br>
 - Also a tech-writer with few hundreds of followers on [Medium](https://medium.com/@azmine_wasi) and [Kaggle](https://www.kaggle.com/azminetoushikwasi/).
 - Passionate to **learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities**.
+- A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
 
 ---
 ## **Skills** :
 - **Programming**: Python (Advanced), C (For Contests), R, SQL<br>
-- **DS & ML Tools** : Python (NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch) <br>
 - **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, ML in Healthcare. <br>
-- **Data Analysis**: MS Excel, SAS, Tableau, Power BI<br>
-- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, OpenCV Photo Manipulations.
-- **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills
+- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch. <br>
+- **Data Analysis**: MS Excel, SAS, Tableau, Power BI.<br>
+- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python at large scale.
+- **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills.
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
 ---

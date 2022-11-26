@@ -16,9 +16,9 @@ Researcher - Tech Writer - Automation Wiz
 ---
 <h4 align="center">
 An idealist with distinguished experience, and expertise in Programming (Machine Learning), IT Automation, Research, Product Development, Project Management and Analytics.</br>
-Currently, exploring Data Science, Machine Learning and IT Automation; </br>involved in several ML research projects in Bioinformatics and Education domains.</br>
+Currently, exploring Data Science, Machine Learning and IT Automation; </br>actvely involved in several ML research projects in Bioinformatics and Education domains.</br>
 Worked with numerous thriving start-ups (Shikho, 10 Minute School, BasaKhujo), as well as many prestigious club and organizations providing analytical, data-driven, technical, managerial and creative support. </br>
-Also a moderate tech-writer with few hundreds of fllowers on Medium and Kaggle. </br>
+Also a moderate tech-writer with few hundreds of followers on Medium and Kaggle. </br>
 Love to learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities.
 </br>
 </h4>
@@ -40,10 +40,11 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 
 
 ---
+## **Know me better**:
 - 📝 I write articles on [Medium](https://medium.com/@azmine_wasi)
 - 📝 View my works on [Kaggle](https://www.kaggle.com/azminetoushikwasi)
 - 📄 Get connected on [Linkedin](https://www.linkedin.com/in/azmine-toushik-wasi/)
-- 📝 Know me better [Azmine Toushik Wasi](http://azminewasi.github.io/)
+- 📝 View my personal website [Azmine Toushik Wasi](http://azminewasi.github.io/)
 
 ---
 ## **Skills** :

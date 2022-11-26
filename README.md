@@ -16,8 +16,8 @@ Researcher - Tech Writer - Automation Wiz
 
 ---
 ## **I am** :
-- Experienced in **Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.**
-- Currently, exploring **Data Science, Machine Learning and IT Automation**; **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
+- Frenzied about **Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.**
+- Currently, exploring **Data Science & Machine Learning**; **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Actvely involved in several ML [research](https://azminewasi.github.io/#research) projects in **Bioinformatics and Education** domains.
 - Working/worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. </br>
 - Also a tech-writer with few hundreds of followers on [Medium](https://medium.com/@azmine_wasi) and [Kaggle](https://www.kaggle.com/azminetoushikwasi/).

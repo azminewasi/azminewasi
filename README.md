@@ -73,7 +73,7 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 
 ## **Projects** :
-  - Divorce Predictions 📊 Reasons Analysis with SHAP,TSNE - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
+  - Divorce Predictions 📊 Reasons Analysis with SHAP,RFE,XGB - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
   - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
   - Lionel Messi | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/lionel-messi-extended-eda-goals)
@@ -83,13 +83,9 @@ Love to learn new things, share my knowledge, improve existing skills, experimen
 ---
 
 ## **Medium Blogs** :
-- **Data Science Intro**
-  - [Data Science: Tools (Programming Language, Software and Online Tools)](https://medium.com/@azmine_wasi/data-science-tools-programming-language-software-and-online-tools-344b132a59ad)
-  - [Data Science: Methodology and Approach — What? Why? How?](https://medium.com/@azmine_wasi/data-science-methodology-and-approach-what-why-how-a15a7f611ab1)
-- **Data Science - Topics**
-  - [XGBoost | Wrangling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
-  - [Introduction to Clustering : Discussion about different types of Clustering](https://medium.com/@azmine_wasi/introduction-to-clustering-discussion-about-different-types-of-clustering-dd6af9fbfc21)
-  - [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
+- [XGBoost | Wrangling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
+- [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
+- [Introduction to Clustering : Discussion about different types of Clustering](https://medium.com/@azmine_wasi/introduction-to-clustering-discussion-about-different-types-of-clustering-dd6af9fbfc21)
 
 ---
 ## **Other URLs** :

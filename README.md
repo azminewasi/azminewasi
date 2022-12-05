@@ -15,7 +15,7 @@ Researcher - Tech Writer - Automation Wiz
 </p>
 
 ---
-## **I a** :
+## **I am** :
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Actively involved in several ML [research](https://azminewasi.github.io/#research) projects in **Bioinformatics and Education** domains.

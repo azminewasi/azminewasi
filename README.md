@@ -15,14 +15,14 @@ Researcher - Tech Writer - Automation Wiz
 </p>
 
 ---
-## **I am** :
-- Frenzied about **Programming (Machine Learning), IT Automation, Research, Project, Products and Analytics.**
-- Currently, exploring **Data Science & Machine Learning**; **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
+## **I a** :
+- Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
+- Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Actively involved in several ML [research](https://azminewasi.github.io/#research) projects in **Bioinformatics and Education** domains.
-- Working/worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. </br>
-- Also a tech-writer with few hundreds of followers on [Medium](https://medium.com/@azmine_wasi) and [Kaggle](https://www.kaggle.com/azminetoushikwasi/).
-- Passionate to **learn new things, share my knowledge, improve existing skills, experiment with acquired skills and challenge my capabilities**.
-- A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
+- Wworking/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. </br>
+- A tech-writer with few hundreds of followers on [Medium](https://medium.com/@azmine_wasi) and [Kaggle](https://www.kaggle.com/azminetoushikwasi/).
+- Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
+- Aa student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
 
 ---
 ## **Skills** :

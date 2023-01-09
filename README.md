@@ -31,7 +31,6 @@ Researcher - Tech Writer - Automation Wiz
 - **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch. <br>
 - **Data Analysis**: MS Excel, SAS, Tableau, Power BI.<br>
 - **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python at large scale.
-- **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills.
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
 ---

@@ -35,15 +35,6 @@ Researcher - Tech Writer - Automation Wiz
 
 ---
 
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/dataset/light" alt="azminewasi" height="150"/> &nbsp;
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/notebook/light" alt="azminewasi" height="150"/> &nbsp;
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/azminetoushikwasi/discussion/light" alt="azminewasi" height="150"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" alt="azminewasi" height="150"/>
-</p>
-
----
-
 ## **Research** :
 - **Reserach Interest:** 
   - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.

@@ -27,6 +27,14 @@ Researcher - Tech Writer - Automation Wiz
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/). [*- View Education Details*](https://azminewasi.github.io/#resume)
 
 ---
+
+<p align=center>
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?azminetoushikwasi" alt="Azmine Wasi's Kaggle Summary Card" height="150"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" height="150"/>
+</p
+  
+---
+
 ## **Skills** :
 - **Programming**: Python (Advanced), C (For Contests), R, SQL<br>
 - **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, ML in Healthcare. <br>

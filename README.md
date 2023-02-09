@@ -20,28 +20,24 @@ Researcher - Tech Writer - Automation Wiz
 ## **I am** :
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- Actively involved in several ML based research projects in **Bioinformatics and Education** domains. [*- View Research Details*](https://azminewasi.github.io/#resume)
+- Actively involved in several ML based research projects in **Bioinformatics and Education** domains. [*- View Research Details*](https://azminewasi.github.io/#research)
 - Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. [*- View Experiences*](https://azminewasi.github.io/#resume) </br>
 - A **tech-write**r with **200+** followers on [**Medium**](https://medium.com/@azmine_wasi) and **250+** in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
-- A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/). [*- View Education Details*](https://azminewasi.github.io/#resume)
+- A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/). [*- View Education Details*](https://azminewasi.github.io/#education)
 
----
-
-<p align=center>
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?azminetoushikwasi" alt="Azmine Wasi's Kaggle Summary Card" height="150"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" height="150"/>
-</p
-  
 ---
 
 ## **Skills** :
-- **Programming**: Python (Advanced), C (For Contests), R, SQL<br>
-- **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, ML in Healthcare. <br>
-- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch. <br>
-- **Data Analysis**: MS Excel, SAS, Tableau, Power BI.<br>
-- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python at large scale.
-- Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
+- **Programming**: Python (Advanced), C (For Contests), R, SQL.
+- **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, GANs.
+- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Stats-models, Scikitlearn, Keras, Tensorflow, PyTorch.
+- **Data Analysis**: MS Excel, SAS, Tableau, Power BI.
+- **IT Automation**: 
+  - Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator using Python, built-in toolkits and ML; 
+  - Photo Manipulations at large scale using OpenCV and Pillow; 
+  - NLP and CV-based ML models to detect error in textuala and visual contents.
+- Product Development, Project Management, Business Development and Strategic Planning and Analysis.
 
 ---
 
@@ -52,8 +48,9 @@ Researcher - Tech Writer - Automation Wiz
    - [Graph Neural Network & Knowledge Graphs In Healthcare](https://azminewasi.github.io/#research)
    - [Knowledge Graph Generation From Bangla Text (NLP)](https://azminewasi.github.io/#research)
    
+  
 ---
-
+  
 ## **Projects** :
   - Divorce Predictions 📊 Reasons Analysis with SHAP,RFE,XGB - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
@@ -62,10 +59,16 @@ Researcher - Tech Writer - Automation Wiz
   - Cristiano Ronaldo | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis)
   - Daily AQI - Air Quality Index - Geosphatical Analysis- [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
 
+<p align=center>
+  </br>
+<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?azminetoushikwasi" alt="Azmine Wasi's Kaggle Summary Card" height="150"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" height="150"/>
+</p>
 
 ---
 
 ## **Medium Blogs** :
 - [XGBoost | Wrangling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
 - [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
-- [Introduction to Clustering : Discussion about different types of Clustering](https://medium.com/@azmine_wasi/introduction-to-clustering-discussion-about-different-types-of-clustering-dd6af9fbfc21)
+- [How Microsoft is winning the AI Technological war?](https://medium.com/@azmine_wasi/how-microsoft-is-winning-the-ai-technological-war-5ba7688e2ed4)
+- [A Gentle Introduction to Time Series Analysis and Forecasting](https://medium.com/@azmine_wasi/a-gentle-introduction-to-time-series-analysis-and-forecasting-700e244fe027)

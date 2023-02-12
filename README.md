@@ -46,7 +46,7 @@ Researcher - Tech Writer - Automation Wiz
   - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
 - **Active Works:**
    - [Graph Neural Network & Knowledge Graphs In Healthcare](https://azminewasi.github.io/#research)
-   - [Knowledge Graph Generation From Bangla Text (NLP)](https://azminewasi.github.io/#research)
+   - [Supply Chain Optimization](https://azminewasi.github.io/#research)
    
   
 ---

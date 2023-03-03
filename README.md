@@ -44,9 +44,11 @@ Researcher - Tech Writer - Automation Wiz
 ## **Research** :
 - **Reserach Interest:** 
   - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
-- **Active Works:**
-   - [Graph Neural Network & Knowledge Graphs In Healthcare](https://azminewasi.github.io/#research)
-   - [Supply Chain Optimization](https://azminewasi.github.io/#research)
+- [**Active Works:**](https://azminewasi.github.io/#research)
+   - GNN & KG : Drug Drug Interaction
+   - CV : Expression (Expr) Classification - ABAW
+   - CV : Quality Inspection in Manufacturing
+   - Supply Chain Optimization
    
   
 ---

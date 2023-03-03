@@ -57,8 +57,6 @@ Researcher - Tech Writer - Automation Wiz
   - Divorce Predictions 📊 Reasons Analysis with SHAP,RFE,XGB - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
   - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
   - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
-  - Lionel Messi | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-lionel-messi-all-club-goals) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/lionel-messi-extended-eda-goals)
-  - Cristiano Ronaldo | All Club Goals - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis)
   - Daily AQI - Air Quality Index - Geosphatical Analysis- [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
 
 <p align=center>
@@ -70,7 +68,7 @@ Researcher - Tech Writer - Automation Wiz
 ---
 
 ## **Medium Blogs** :
-- [XGBoost | Wrangling with Hyperparameters | Detailed Guide](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
+- [How Microsoft is winning the AI Technological war?](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
 - [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
 - [How Microsoft is winning the AI Technological war?](https://medium.com/@azmine_wasi/how-microsoft-is-winning-the-ai-technological-war-5ba7688e2ed4)
 - [A Gentle Introduction to Time Series Analysis and Forecasting](https://medium.com/@azmine_wasi/a-gentle-introduction-to-time-series-analysis-and-forecasting-700e244fe027)

@@ -48,7 +48,7 @@ Researcher - Tech Writer - Automation Wiz
    - GNN & KG : Drug Drug Interaction
    - CV : Expression (Expr) Classification - ABAW
    - CV : Quality Inspection in Manufacturing
-   - Supply Chain Optimization
+   - ML & OR : Supply Chain Optimization
    
   
 ---

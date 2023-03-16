@@ -2,9 +2,9 @@
 
 ---
 <h3 align="center">
-Exploring Machine Learning & Data Science | Kaggle Notebooks Grandmaster </br> 
+Machine Learning Researcher | Exploring Machine Learning & Data Science</br> 
 Experienced in Programming, IT, Automation, Product, R&D, Analytics </br> 
-Researcher - Tech Writer - Automation Wiz
+Kaggle Notebooks Grandmaster | Tech Writer | Reader
 </h3>
 
 <p align=center>

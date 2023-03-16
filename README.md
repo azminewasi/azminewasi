@@ -22,7 +22,7 @@ Researcher - Tech Writer - Automation Wiz
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Actively involved in several ML based research projects in **Bioinformatics and Computer Vision** domains. [*- View Research Details*](https://azminewasi.github.io/#research)
 - Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. [*- View Experiences*](https://azminewasi.github.io/#resume) </br>
-- A **tech-write**r with **265+** followers on [**Medium**](https://medium.com/@azmine_wasi) and **3000+** in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
+- A **tech-write**r with **265+** followers on [**Medium**](https://medium.com/@azmine_wasi) and **300+** in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/). [*- View Education Details*](https://azminewasi.github.io/#education)
 
@@ -46,7 +46,7 @@ Researcher - Tech Writer - Automation Wiz
   - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
 - [**Active Works:**](https://azminewasi.github.io/#research)
    - GNN & KG : Drug Drug Interaction
-   - CV : Expression (Expr) Classification - ABAW
+   - CV : **CVPR2023W 5th ABAW EXPR Challenge** Facial Expression Recognition - *Submitted for Review*
    - CV : Quality Inspection in Manufacturing
    - ML & OR : Supply Chain Optimization
    

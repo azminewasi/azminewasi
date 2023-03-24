@@ -46,7 +46,7 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
   - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
 - [**Active Works:**](https://azminewasi.github.io/#research)
    - GNN & KG : Drug Drug Interaction
-   - CV : **CVPR2023W 5th ABAW EXPR Challenge** Facial Expression Recognition - *Submitted for Review*
+   - CV : Human Behaviour Analysis - FEL- *IEEE TPAMI*
    - CV : Quality Inspection in Manufacturing
    - ML & OR : Supply Chain Optimization
    

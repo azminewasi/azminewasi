@@ -42,8 +42,8 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 ---
 
 ## **Research** :
-- **Reserach Interest:** 
-  - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in Bioinformatics and medical sector.
+- **Research Interest:** 
+  - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in different industries.
 - [**Active Works:**](https://azminewasi.github.io/#research)
    - GNN & KG : Drug Drug Interaction
    - CV : Human Behaviour Analysis - FEL- *IEEE TPAMI*

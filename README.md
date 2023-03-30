@@ -63,11 +63,3 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?azminetoushikwasi" alt="Azmine Wasi's Kaggle Summary Card" height="150"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" height="150"/>
 </p>
-
----
-
-## **Medium Blogs** :
-- [How Microsoft is winning the AI Technological war?](https://medium.com/@azmine_wasi/xgboost-wrestling-with-hyperparameters-detailed-guide-part-01-3ecc8280f02b)
-- [Mastering BIAS-VARIANCE TRADEOFF with Polynomials](https://medium.com/@azmine_wasi/mastering-bias-variance-tradeoff-with-polynomials-azminewasi-e58530f8b588)
-- [How Microsoft is winning the AI Technological war?](https://medium.com/@azmine_wasi/how-microsoft-is-winning-the-ai-technological-war-5ba7688e2ed4)
-- [A Gentle Introduction to Time Series Analysis and Forecasting](https://medium.com/@azmine_wasi/a-gentle-introduction-to-time-series-analysis-and-forecasting-700e244fe027)

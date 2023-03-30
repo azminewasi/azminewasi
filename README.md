@@ -11,7 +11,6 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 <a href="https://www.linkedin.com/in/azmine-toushik-wasi/"><img height="25" src="https://img.shields.io/badge/Linkedin-%2920beff"></a>
 <a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-%2320beff"></a>
 <a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Website-%1020beff"></a>
-<a href="https://medium.com/@azmine_wasi"><img height="25" src="https://img.shields.io/badge/Medium-%1020beff"></a>
 <a href="https://www.researchgate.net/profile/Azmine-Toushik-Wasi/"><img height="25" src="https://img.shields.io/badge/ResearchGate-%2320beff"></a>
 <a href="https://www.facebook.com/cholche.gari.zatrabari/"><img height="25" src="https://img.shields.io/badge/Facebook-%2920beff"></a>
 </p>

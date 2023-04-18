@@ -19,9 +19,9 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 ## **I am** :
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- Actively involved in several ML based research projects in **Bioinformatics and Computer Vision** domains. [*- View Research Details*](https://azminewasi.github.io/#research)
+- Actively involved in several ***Machine Learning Research*** projects in **Computer Vision, Graph Neural Networks, Robust Modeling & Explainable AI** domains. [*- View Research Details*](https://azminewasi.github.io/#research)
 - Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. [*- View Experiences*](https://azminewasi.github.io/#resume) </br>
-- A **tech-write**r with **300+** in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
+- A ML-based **tech-writer** with **300+** followers in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/) and personal [**blog site**](https://azminewasi.github.io/blog/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/). [*- View Education Details*](https://azminewasi.github.io/#education)
 
@@ -42,12 +42,13 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 
 ## **Research** :
 - **Research Interest:** 
-  - Broadly Applied Machine Learning. Application of NLP-CV, Knowledge Graphs, GNN in different industries.
-- [**Active Works:**](https://azminewasi.github.io/#research)
-   - GNN & KG : Drug Drug Interaction
-   - CV : Human Behaviour Analysis - FEL- *IEEE TPAMI*
-   - CV : Quality Inspection in Manufacturing
-   - ML & OR : Supply Chain Optimization
+  - Interested in Applied Machine Learning, broadly. I am passionate about solving challenges in different industries and building efficient, fast, and reliable models.
+- [**Current Works:**](https://azminewasi.github.io/#research)
+   - Computer Vision (Advanced detection and classification),
+   - Graph Neural Networks (Healthcare and Drug Detection/Interaction domain),
+   - Robust Deep Learning (Developing reliable models reducing uncertainties),
+   - Explainable AI (Developing human understandable & trustable models),
+   - Reinforcement Learning, and Optimization.
    
   
 ---

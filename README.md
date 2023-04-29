@@ -41,16 +41,16 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 
 ---
 
-## **Research** :
-- **Research Interest:** 
-  - Interested in Applied Machine Learning, broadly. I am passionate about solving challenges in different industries and building efficient, fast, and reliable models.
-- [**Current Works:**](https://azminewasi.github.io/#research)
+## [**Research**](https://azminewasi.github.io/#research) :
+- **Research Interests:**
    - Computer Vision (Advanced detection and classification),
-   - Graph Neural Networks (Healthcare and Drug Detection/Interaction domain),
+   - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
    - Robust Deep Learning (Developing reliable models reducing uncertainties),
    - Explainable AI (Developing human understandable & trustable models),
    - Reinforcement Learning, and Optimization.
-   
+- **Publications:**
+   - ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
+     - IEEE T-PAMI 2023 **(IF 24.31)** - *UNDER REVIEW*
   
 ---
   

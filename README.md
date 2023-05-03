@@ -50,7 +50,7 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
    - Reinforcement Learning, and Optimization.
 - **Publications:**
    - ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
-     - IEEE T-PAMI 2023 **(IF 24.31)** - *UNDER REVIEW*
+     - IEEE T-PAMI 2023 **(IF 24.31)** - *UNDER REVIEW* - [arXiv pre-print](https://arxiv.org/abs/2305.01486)
   
 ---
   

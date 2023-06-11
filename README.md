@@ -7,14 +7,15 @@ Experienced in Programming, IT, Automation, Product, R&D, Analytics </br>
 Kaggle Notebooks Grandmaster | Tech Writer | Reader
 </h3>
 
-<p align=center>
-<a href="https://www.linkedin.com/in/azmine-toushik-wasi/"><img height="25" src="https://img.shields.io/badge/Linkedin-%2920beff"></a>
-<a href="https://www.kaggle.com/azminetoushikwasi"><img height="25" src="https://img.shields.io/badge/Kaggle-%2320beff"></a>
-<a href="https://azminewasi.github.io"><img height="25" src="https://img.shields.io/badge/Website-%1020beff"></a>
-<a href="https://azminewasi.github.io/blog"><img height="25" src="https://img.shields.io/badge/Blog-%1020beff"></a>
-<a href="https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en"><img height="25" src="https://img.shields.io/badge/GoogleScholar-%2320beff"></a>
-<a href="https://www.facebook.com/cholche.gari.zatrabari/"><img height="25" src="https://img.shields.io/badge/Facebook-%2920beff"></a>
-</p>
+<div align=center>
+  
+ [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://azminewasi.github.io) 
+ [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/azmine-toushik-wasi/) 
+ [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/azminetoushikwasi) 
+ [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en) 
+ [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=1f1f15)](https://www.facebook.com/cholche.gari.zatrabari/)
+  
+</div>
 
 ---
 ## **I am** :

@@ -52,7 +52,7 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
    - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems).
 - **Publications:**
    - ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
-     - IEEE T-PAMI 2023 **(IF 24.31)** - *UNDER REVIEW* - [arXiv pre-print](https://arxiv.org/abs/2305.01486) - [Project Site](https://azminewasi.github.io/research/paper/arbex/)
+     - *UNDER REVIEW* - [arXiv pre-print](https://arxiv.org/abs/2305.01486) - [Project Site](https://azminewasi.github.io/research/paper/arbex/)
   
 ---
   

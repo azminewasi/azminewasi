@@ -46,21 +46,13 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 - **Research Interests:**
    - Computer Vision (Advanced detection and classification),
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
-   - Robust Deep Learning (Developing reliable models reducing uncertainties),
-   - Explainable AI (Developing human understandable & trustable models),
-   - Human-Centered AI (Designing AI systems to interact naturally with humans), and
+   - Explainable AI (Developing human understandable & trustable models), and
    - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems).
 - **Publications:**
    - ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
      - *UNDER REVIEW* - [arXiv pre-print](https://arxiv.org/abs/2305.01486) - [Project Site](https://azminewasi.github.io/research/paper/arbex/)
   
 ---
-  
-## **Projects** :
-  - Divorce Predictions 📊 Reasons Analysis with SHAP,RFE,XGB - [Notebook](https://www.kaggle.com/code/azminetoushikwasi/divorce-xgboost-analysis-with-pca-shap-tsne)
-  - Investment and Financial Analysis 🏭 EPZs of Bangladesh - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/-epzs-of-bangladesh-investors-data) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/eda-statistical-analytics-epzs-of-bangladesh)
-  - UCL ⚽ 2021-22 ⭐ Players Data | Champions League - [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/ucl-202122-uefa-champions-league) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/ucl-eda-viz-2021-22-players-teams)
-  - Daily AQI - Air Quality Index - Geosphatical Analysis- [Dataset](https://www.kaggle.com/datasets/azminetoushikwasi/aqi-air-quality-index-scheduled-daily-update) | [Notebook](https://www.kaggle.com/code/azminetoushikwasi/daily-aqi-air-quality-index-scheduled)
 
 <p align=center>
   </br>

@@ -22,7 +22,7 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Actively involved in several ***Machine Learning Research*** projects in **Graph Neural Networks, Computer Vision, Robust Modeling, Explainable and Human Centric AI** domains.
-- Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[DeepLearning.AI](https://deeplearning.ai), [Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. [*- View Experiences*](https://azminewasi.github.io/#resume) </br>
+- Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[DeepLearning.AI](https://deeplearning.ai), [Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support. </br>
 - A ML-based **tech-writer** with **300+** followers in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/) and personal [**blog site**](https://azminewasi.github.io/blog/). I also share my personal writngs and thoughts in [**চলছে গাড়ি, যাত্রাবাড়ি**](https://www.facebook.com/cholche.gari.zatrabari/).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
@@ -42,7 +42,7 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 
 ---
 
-## [**Research**](https://azminewasi.github.io/#research) :
+## [**Research**](https://azminewasi.github.io/research.html) :
 - **Research Interests:**
    - Computer Vision (Advanced detection and classification),
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),

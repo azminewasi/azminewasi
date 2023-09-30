@@ -47,10 +47,8 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
    - Computer Vision (Advanced detection and classification),
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
    - Explainable AI (Developing human understandable & trustable models), and
-   - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems).
-- **Publications:**
-   - ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning
-     - *UNDER REVIEW* - [arXiv pre-print](https://arxiv.org/abs/2305.01486) - [Project Site](https://azminewasi.github.io/research/paper/arbex/)
+   - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems), and
+   - Reinforcement Learning (RL) (Explainable optimization with Reinforcement Learning).
   
 ---
 

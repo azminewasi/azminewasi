@@ -54,6 +54,8 @@ Kaggle Notebooks Grandmaster | Tech Writer | Reader
 
 <p align=center>
   </br>
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?azminetoushikwasi" alt="Azmine Wasi's Kaggle Summary Card" height="150"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&show_icons=true" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&theme=great-gatsby&show_icons=true" height="150"/>
+<a href="https://github.com/azminewasi/online-ml-university"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azminewasi&repo=online-ml-university&theme=great-gatsby&show_owner=true" height="150"/></a>
+
 </p>

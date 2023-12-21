@@ -47,8 +47,7 @@ Kaggle Notebooks Grandmaster | Explorer
    - Computer Vision (Advanced detection and classification),
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
    - Explainable AI (Developing human understandable & trustable models), and
-   - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems), and
-   - Reinforcement Learning (RL) (Explainable optimization with Reinforcement Learning).
+   - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems).
   
 ---
 

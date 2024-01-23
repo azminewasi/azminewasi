@@ -2,7 +2,8 @@
 
 ---
 <h3 align="center">
-Machine Learning Researcher | Exploring Machine Learning & Data Science</br> 
+Machine Learning Researcher (Graph Neural Nets, Optimization, Explainable AI) </br> 
+Exploring Machine Learning & Data Science</br> 
 Experienced in Programming, IT, Automation, Product, R&D, Analytics </br> 
 Kaggle Notebooks Grandmaster | Explorer
 </h3>
@@ -21,8 +22,8 @@ Kaggle Notebooks Grandmaster | Explorer
 ## **I am** :
 - Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
 - Currently, exploring **Data Science & Machine Learning**; the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- Actively involved in several [***Machine Learning Research***](https://azminewasi.github.io/research/index.html) projects in **Graph Neural Networks, Explainable AI and Optimization** with [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). Founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/) to accelerate ML research and education in SUST IPE.
-- Working/ worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[DeepLearning.AI](https://deeplearning.ai), [Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support.
+- Actively involved in several [***Machine Learning Research***](https://azminewasi.github.io/research/index.html) projects in **Graph Neural Networks, Explainable AI and Optimization** with [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). Founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/) to accelerate ML research and education in SUST IPE. Published in NeurIPS and AAAI workshops.
+- Worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[DeepLearning.AI](https://deeplearning.ai), [Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support.
 - A ML-based **tech-writer** with **300+** followers in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/) and personal [**blog site**](https://azminewasi.github.io/blog/). Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).

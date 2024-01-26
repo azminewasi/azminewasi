@@ -27,6 +27,8 @@ Kaggle Notebooks Grandmaster | Explorer
 - A ML-based **tech-writer** with **300+** followers in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/) and personal [**blog site**](https://azminewasi.github.io/blog/). Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
 - A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
+- Currently looking for research opportunities focusing on **Healthcare (Bioinformatics or Biomedical Engineering) or Combinatorial Optimization (Industrial Applications)** domains.
+
 
 ---
 
@@ -45,11 +47,11 @@ Kaggle Notebooks Grandmaster | Explorer
 
 ## [**Research**](https://azminewasi.github.io/research.html) :
 - **Research Interests:**
-   - Computer Vision (Advanced detection and classification),
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
    - Explainable AI (Developing human understandable & trustable models), and
-   - Process Optimization (ORxAI) (Combining OR & AI to solve complex problems).
-  
+   -  Optimization (CO) (Combinatorial and Constrained Optimization using AI),
+   - Computer Vision (Advanced detection and classification).
+     
 ---
 
 <p align=center>

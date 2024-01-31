@@ -2,7 +2,7 @@
 
 ---
 <h3 align="center">
-Machine Learning Researcher (Graph Neural Nets, Optimization, Explainable AI) </br> 
+Machine Learning Researcher (Graph Neural Nets, Optimization, Explainable AI, HAI) </br> 
 Exploring Machine Learning & Data Science</br> 
 Experienced in Programming, IT, Automation, Product, R&D, Analytics </br> 
 Kaggle Notebooks Grandmaster | Explorer
@@ -49,7 +49,8 @@ Kaggle Notebooks Grandmaster | Explorer
 - **Research Interests:**
    - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
    - Explainable AI (Developing human understandable & trustable models), and
-   -  Optimization (CO) (Combinatorial and Constrained Optimization using AI),
+   - Optimization (CO) (Combinatorial and Constrained Optimization using AI),
+   - Human-Centered AI (HAI) (Creating AI systems focusing on humans),
    - Computer Vision (Advanced detection and classification).
      
 ---

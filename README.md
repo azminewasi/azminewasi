@@ -2,10 +2,9 @@
 
 ---
 <h3 align="center">
-Machine Learning Researcher (Graph Neural Nets, Optimization, Explainable AI, HAI) </br> 
-Exploring Machine Learning & Data Science</br> 
-Experienced in Programming, IT, Automation, Product, R&D, Analytics </br> 
-Kaggle Notebooks Grandmaster | Explorer
+Machine Learning Researcher (GNN, Optimization, Explainable AI, HAI) </br> 
+Kaggle Grandmaster | Explorer</br>
+Looking for research opportunities
 </h3>
 
 <div align=center>

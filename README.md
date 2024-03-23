@@ -44,12 +44,13 @@ Looking for research opportunities
 
 ---
 
-## [**Research**](https://azminewasi.github.io/research.html) :
+## [**Research**](https://azminewasi.github.io/) :
 - **Research Interests:**
-   - Graph Neural Networks (GNN improvement and Drug Detection/Interaction),
-   - Explainable AI (Developing human understandable & trustable models),
-   - Human-Centered AI (HAI) (Creating AI systems focusing on humans),
-   - Optimization (CO) (Combinatorial and Constrained Optimization using AI).
+   - 💠 Graph Neural Networks (GNN): GNN Theories and Applied GNN in Healthcare (Drugs and Molecules) and Supply Chain.
+   - 🧑‍💻 Human-Centered AI (HAI): Human-centric development and evaluation of AI systems.
+   - 📝 Natural Language Processing (NLP): Natural Language Processing and KGs (focusing on Bangla and BioMedNLP).
+   - 🔶 Explainable AI (XAI): Developing human understandable & trustable models; Explaining AI reasoning.
+   - 🫂 Combinatorial Optimization (CO): Constrained and Combinatorial Optimization using AI in different domains.
 - [**View Publications**](https://azminewasi.github.io/publications.html)
   
 ---

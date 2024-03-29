@@ -2,7 +2,8 @@
 
 ---
 <h3 align="center">
-Machine Learning Researcher (GNN, Optimization, Explainable AI, HAI) </br> 
+Machine Learning Researcher</br> 
+ (Graph Neural Nets, Human-centric AI, NLP and XAI) </br> 
 Kaggle Grandmaster | Explorer</br>
 Looking for research opportunities
 </h3>

@@ -20,7 +20,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 </div>
 
 ---
-## **About** :
+## [**About**](https://azminewasi.github.io/index.html) :
 - Experienced in **Programming, Machine Learning, Artificial Intelligence, Inter-disciplinary Research, IT Automation, Project - Product Management and Analytics.**
 - Actively involved in several [***Machine Learning Research***](https://azminewasi.github.io/research/index.html). My research interests include **Graph Neural Networks, Human-Centered AI, and Natural Language Processing**, mainly focusing on medical problems. I am working on [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). Additionally, I have founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/), to mentor young researchers and bridge the gap between Industrial Engineering and AI. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - My research has been published in prestigious venues such as **LREC-COLING'24, ICLR'24 Tiny Papers Track, Workshops of CHI'24, AAAI'24 and NeurIPS'23**, with ongoing reviews in **ECCV'24, IEEE TCBB, ACL ARR**, among others.
@@ -41,7 +41,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
   
 ---
 
-## **Skills** :
+## [**Skills**](https://azminewasi.github.io/portfolio.html) :
 - **Programming**: Python (Advanced), C (For Contests), R, SQL.
 - **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, GANs.
 - **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Stats-models, Scikitlearn, Keras, Tensorflow, PyTorch.

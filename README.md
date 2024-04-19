@@ -20,16 +20,24 @@ Looking for research opportunities
 
 ---
 ## **I am** :
-- Experienced in **Programming (Machine Learning), IT Automation, Research, Project - Product Management and Analytics.**
-- Actively involved in several [***Machine Learning Research***](https://azminewasi.github.io/research/index.html) projects in **Graph Neural Networks, Explainable AI and Optimization** with [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). Founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/) to accelerate ML research and education in SUST IPE.  I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
+- Experienced in **Programming, Artificial Intelligence, Machine Learning, Multi-disciplinary Research, IT Automation, Project - Product Management and Analytics.**
+- Actively involved in several [***Machine Learning Research***](https://azminewasi.github.io/research/index.html). My research interests include **Graph Neural Networks, Human-Centered AI, and Natural Language Processing**, mainly focusing on medical problems. I am working on [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). Additionally, I have founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/), to mentor young researchers and bridge the gap between Industrial Engineering and AI. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - My research has been published in prestigious venues such as **LREC-COLING'24, ICLR'24 Tiny Papers Track, Workshops of CHI'24, AAAI'24 and NeurIPS'23**, with ongoing reviews in **ECCV'24, IEEE TCBB, ACL ARR**, among others.
-- Worked with numerous thriving start-ups (**[10 Minute School](https://10minuteschool.com/), [Shikho](https://shikho.tech/), [BasaKhujo](https://www.basakhujo.com/)**), as well as many prestigious organizations (**[DeepLearning.AI](https://deeplearning.ai), [Royal Commonwealth Society](https://www.linkedin.com/company/royal-commonwealth-society/), [UN Volunteers](https://www.linkedin.com/company/united-nations-volunteers/), [Science Bee](https://www.sciencebee.com.bd/), [BYSO](https://www.linkedin.com/company/byso-bd/)**) providing **data-driven, analytical, technical, managerial, mentoring and creative** support.
-- A ML-based **tech-writer** with **300+** followers in [**Kaggle**](https://www.kaggle.com/azminetoushikwasi/) and personal [**blog site**](https://azminewasi.github.io/blog/). Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
-- Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**.
-- A student of **Industrial and Production Engnnering** at [SUST](https://www.sust.edu/).
-- Currently looking for research opportunities focusing on **Healthcare (Bioinformatics or Biomedical Engineering) or Combinatorial Optimization (Industrial Applications)** domains.
+- Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
+- Served as a Reviewer in ACL ARR, ICLR, IDC; and program chair in multiple ACL'24 workshops.
+- Actively looking for research opportunities focusing on different Types of GNN Learning and NLP (Theoretical or Applied) or Healthcare (Drugs, Bioinformatics, Biomedical Engineering or Neuroscience and AI) domains with conjunction to any of my research interests.
 
+---
 
+## [**Research**](https://azminewasi.github.io/) :
+- **Research Interests:**
+   - 💠 Graph Neural Networks (GNN): GNN Theories and Applied GNN in Healthcare (Drugs and Molecules) and Supply Chain.
+   - 🧑‍💻 Human-Centered AI (HAI): Human-centric development and evaluation of AI systems.
+   - 📝 Natural Language Processing (NLP): Natural Language Processing and KGs (focusing on Bangla and BioMedNLP).
+   - 🔶 Explainable AI (XAI): Developing human understandable & trustable models; Explaining AI reasoning.
+   - 🫂 Combinatorial Optimization (CO): Constrained and Combinatorial Optimization using AI in different domains.
+- [**View Publications**](https://azminewasi.github.io/publications.html)
+  
 ---
 
 ## **Skills** :
@@ -42,17 +50,6 @@ Looking for research opportunities
   - Photo Manipulations at large scale using OpenCV and Pillow; 
   - NLP and CV-based ML models to detect error in textuala and visual contents.
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.
-
----
-
-## [**Research**](https://azminewasi.github.io/) :
-- **Research Interests:**
-   - 💠 Graph Neural Networks (GNN): GNN Theories and Applied GNN in Healthcare (Drugs and Molecules) and Supply Chain.
-   - 🧑‍💻 Human-Centered AI (HAI): Human-centric development and evaluation of AI systems.
-   - 📝 Natural Language Processing (NLP): Natural Language Processing and KGs (focusing on Bangla and BioMedNLP).
-   - 🔶 Explainable AI (XAI): Developing human understandable & trustable models; Explaining AI reasoning.
-   - 🫂 Combinatorial Optimization (CO): Constrained and Combinatorial Optimization using AI in different domains.
-- [**View Publications**](https://azminewasi.github.io/publications.html)
   
 ---
 

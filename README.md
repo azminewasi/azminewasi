@@ -13,7 +13,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
  [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/azmine-toushik-wasi/) 
  [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/azminetoushikwasi) 
  [![google-scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?style=flat-square&logo=google-scholar&color=1f1f18)](https://scholar.google.com/citations?user=X3gRvogAAAAJ&hl=en)
- [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/a/wasi_a_1.html")
+ [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/a/wasi_a_1.html)
  [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&amp;logo=twitter&amp;color=1f1f15)](https://twitter.com/AzmineWasi)
  [![ORCID](https://img.shields.io/badge/ORCID-%2320beff?style=flat-square&amp;logo=orcid&amp;color=1f1f15)](https://orcid.org/my-orcid?orcid=0000-0001-9509-5804)
   

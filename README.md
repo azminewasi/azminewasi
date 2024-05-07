@@ -31,13 +31,25 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ---
 
 ## [**Research**](https://azminewasi.github.io/) :
-- **Research Interests:**
-   - 💠 Graph Neural Networks (GNN): GNN Theories and Applied GNN in Healthcare (Drugs and Molecules) and Supply Chain.
-   - 🧑‍💻 Human-Centered AI (HAI): Human-centric development and evaluation of AI systems.
-   - 📝 Natural Language Processing (NLP): Natural Language Processing and KGs (focusing on Bangla and BioMedNLP).
-   - 🔶 Explainable AI (XAI): Developing human understandable & trustable models; Explaining AI reasoning.
-   - 🫂 Combinatorial Optimization (CO): Constrained and Combinatorial Optimization using AI in different domains.
-- [**View Publications**](https://azminewasi.github.io/publications.html)
+- 💠 **Graph Neural Networks (GNN)**: 
+    I am exploring Graph Neural Network or Geometric Machine Learning Theories, applying and improving GNN models and resources in Healthcare (Drugs, Proteins and Molecules) [DDI](https://arxiv.org/abs/2403.17210),
+    Knowledge Graphs [BanglaAutoKG](https://arxiv.org/abs/2404.03528) (COLING'24), and Supply Chains [SupplyGraph](https://arxiv.org/abs/2401.15299) (AAAI'24W).
+
+- 🧬 **Medical AI**: 
+    In Medical AI, I am working on developing AI systems for Healthcare, mainly focusing on Computational Molecular Biology - Neuroscience, Bioinformatics, Computational Drug Discovery [CADGL](https://arxiv.org/abs/2403.17210), 
+    and Healthcare Optimization [Glucose level control](https://arxiv.org/abs/2402.13852) (ICLR'24).
+
+- 🧑‍💻 **Human-Centered AI (HAI)**: 
+    Despite extensive coursework in ergonomics, Human Factors Engineering (HFE), behavior studies, and psychology within our IPE curriculum, there's a notable gap in inter-disciplinary research between IPE and AI.
+    Motivated by this, I am working on integrating HFE [AI Ownership](https://arxiv.org/abs/2404.00027), [Individuality](https://arxiv.org/abs/2404.00026) (CHI'24W),
+    Computational Social Science (CSS) [Social Biases](https://heal-workshop.github.io/#:~:text=Exploring%20Bengali%20Religious%20Dialect%20Biases) (CHI'24W),
+    Fairness and Reliability [ARBEx](https://arxiv.org/abs/2309.13402) into AI systems, focusing on HAI perspectives of IPE.
+
+- 📝 **Natural Language Processing (NLP)**: 
+    In Natural Language Processing, I am developing [Knowledge Graphs](https://arxiv.org/abs/2404.03528) (COLING'24) and Bangla Knowledge Systems; motivated by NLP + GNNs. 
+    I am also working on inter-disciplinary CSS, Climate, and BioMedNLP [Molecules+NLP](https://openreview.net/forum?id=VUYCyH8fCw&) (ICLR'24).
+
+[**View All Publications**](https://azminewasi.github.io/publications.html)
   
 ---
 

@@ -3,7 +3,7 @@
 ---
 <h3 align="center">
 Machine Learning Researcher</br> 
- (Graph Neural Nets, Human-centric AI, NLP and XAI) </br> 
+ (Graph Neural Nets, Medical AI, Human-centric AI & NLP) </br> 
 Kaggle Grandmaster | Explorer | Looking for research opportunities
 </h3>
 

@@ -23,10 +23,10 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ## [**About**](https://azminewasi.github.io/index.html) :
 - An aspiring AI researcher and engineering student, exploring **Graph Neural Networks (GNNs) in Bio-Medical AI**, mainly focusing on **neuro, biomedical and molecular** domains. In addition to my GNN research, my other research interests include **Natural Language Processing (NLP) and Human-Centered AI** for interdisciplinary works. **I am looking forward to pursue a PhD in Fall 2025 to continue research** and looking for potential options.
 - I am working on [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). I have founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/), to mentor young researchers and bridge the gap between Industrial Engineering and AI. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- My research has been published in prestigious venues such as **LREC-COLING'24, ICLR'24** Tiny Papers Track, Workshops of **CHI'24, AAAI'24 and NeurIPS'23**, with ongoing reviews in **ECCV'24, IEEE TCBB, ACL ARR, ACL-W**, among others.
-- Other than ML Research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles.
+- My works has been published in prestigious venues such as **LREC-COLING'24, ICLR'24** Tiny Papers Track, Workshops of **CHI'24, AAAI'24 and NeurIPS'23**, with ongoing reviews in **ECCV'24, IEEE TCBB, ACL ARR, ACL-W**, among others.
+- Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
-- Serving as reviewer in top ML conferences, workshops and journals like ACL ARR, ICLR, IDC; and program chair in multiple ACL'24 workshops.
+- Serving as reviewer in top ML conferences, workshops and journals like ACL ARR, ICLR, IDC regularly; and program chair in multiple ACL'24 workshops.
 - Actively looking for research opportunities in theoretical or applied GNNs in medical domains (molecular/biomedical/neuroscience).
 
 ---

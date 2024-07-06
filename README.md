@@ -21,7 +21,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ---
 ## [**About**](https://azminewasi.github.io/index.html) :
-- An aspiring AI researcher and engineering student, exploring **Graph Neural Networks (GNNs) in Bio-Medical AI**, mainly focusing on **neuro, biomedical and bio-/molecular** domains. Along with GNN, my other research interests include **Natural Language Processing (NLP) and Human-Centered AI** for interdisciplinary works.
+- An aspiring AI researcher and engineering student, exploring **Graph Neural Networks (GNNs) in Bio-Medical AI**, mainly focusing on **neuro, biomedical and bio-/molecular** domains (AI4Science). Along with GNN, my other research interests include **Natural Language Processing (NLP) and Human-Centered AI** for interdisciplinary works.
 - **I am looking forward to pursue a PhD in Fall 2025 to continue research** and looking for potential options.
 - I am working on [Data Intelligence Lab, HYU, KR](https://dilab.hanyang.ac.kr/). I have founded [Computational Intelligence and Operations Lab - CIOL, SUST, BD](https://ciol-sust.github.io/), to mentor young researchers and bridge the gap between Industrial Engineering and AI. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - My works has been published in prestigious venues such as **LREC-COLING'24, ICLR'24** Tiny Papers Track, Workshops of **NeurIPS'23, AAAI'24, ICML'24, ACL'24 and CHI'24**, with ongoing reviews in **ACCV'24, TCBB, EMNLP'24, CIKM'24, UIST'24, CSCW'24**, among others.
@@ -33,7 +33,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ---
 
 ## [**Research**](https://azminewasi.github.io/) :
-- ⚙️ Machine Learning:
+- ⚙️ **Machine Learning (AI4Science)**:
     I am working on theoretical and applied machine learning, specially probabilistic modeling and inference, generative models, GFlowNets and its applications, etc.
     I've published in ICLR'24 and COLING'24, and workshops of AAAI'24, NeurIPS'23, ACL'24, ICML'24 and CHI'24. I regularly serve as reviewer for top ML conferences (ACL-RR, ICLR) and workshops (ICML, ACL, MICCAI).
 

@@ -34,17 +34,15 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ---
 
 ## [**Research**](https://azminewasi.github.io/) :
-- ⚙️ **Machine Learning (AI4Science)**:
-    I am working on theoretical and applied machine learning, specially probabilistic modeling and inference, generative models, GFlowNets and its applications, etc; broadly related to AI for Science. I want to solve scientific problems in medical sector (drugs and biomolecules), climate change and manufacturing - industrial sectors (Digital Twins).
-    I've published in ICLR'24 and COLING'24, and workshops of AAAI'24, NeurIPS'23, ACL'24, ICML'24 and CHI'24. I regularly serve as reviewer for top ML conferences (ACL-RR, ICLR) and workshops (ICML, ACL, MICCAI).
-
-- 🧬 **Medical AI**: 
-    In Medical AI, I am working on developing AI systems for Healthcare, mainly focusing on Computational Molecular Biology - Neuroscience, Bioinformatics, Computational Drug Discovery [CADGL](https://arxiv.org/abs/2403.17210), 
-    molecular properties prediction, protein discovery, binder design and binding affinity, molecular interactions and affinity, structural biology, and healthcare optimization [Glucose level control](https://arxiv.org/abs/2402.13852) (ICLR'24). I've worked with de novo protein generation (RFDiffusion, FoldFlow, Croma, etc.) models and experienced with RL-inspired/energy-guided geometric/sequential structural biology modeling tools with GNNs, Flow Matching, GFLowNets and Diffusion models. I'm also experienced in computational neuroscience.
   
 - 💠 **Graph Neural Networks (GNN)**: 
     I am exploring Graph Neural Network or Geometric Machine Learning Theories, applying and improving GNN models and resources in Healthcare (Drugs Discovery, Interactions, Proteins Design & Binding and Micro/Macro-Molecules) [DDI](https://arxiv.org/abs/2403.17210),
     Knowledge Graphs [BanglaAutoKG](https://arxiv.org/abs/2404.03528) (COLING'24), and Supply Chains [SupplyGraph](https://arxiv.org/abs/2401.15299) (AAAI'24W).
+
+- 🧬 **Medical AI**: 
+    In Medical AI, I am working on developing AI systems for Healthcare, mainly focusing on Computational Molecular Biology - Neuroscience, Bioinformatics, Computational Drug Discovery [CADGL](https://arxiv.org/abs/2403.17210), 
+    molecular properties prediction, protein discovery, binder design and binding affinity, molecular interactions and affinity, structural biology, and healthcare optimization [Glucose level control](https://arxiv.org/abs/2402.13852) (ICLR'24). I've worked with de novo protein generation (RFDiffusion, FoldFlow, Croma, etc.) models and experienced with RL-inspired/energy-guided geometric/sequential structural biology modeling tools with GNNs, Flow Matching, GFLowNets and Diffusion models. I'm also experienced in computational neuroscience.
+
 
 - 🧑‍💻 **Human-Centered AI (HAI)**: 
     Despite extensive coursework in ergonomics, Human Factors Engineering (HFE), behavior studies, and psychology within our IPE curriculum, there's a notable gap in inter-disciplinary research between IPE and AI in BD.
@@ -54,9 +52,6 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
     Computational Social Science (CSS) [Social Biases](https://heal-workshop.github.io/#:~:text=Exploring%20Bengali%20Religious%20Dialect%20Biases) (CHI'24W),
     Fairness and Reliability [ARBEx](https://arxiv.org/abs/2309.13402) into AI systems, focusing on HAI perspectives of IPE.
 
-- 📝 **Natural Language Processing (NLP)**: 
-    In Natural Language Processing, I am developing [Knowledge Graphs](https://arxiv.org/abs/2404.03528) (COLING'24) and Bangla Knowledge Systems; motivated by NLP + GNNs. 
-    I am also working on inter-disciplinary CSS, Climate, ChemicalLMs, and BioMedNLP [Molecules+NLP](https://openreview.net/forum?id=VUYCyH8fCw&) (ICLR'24).
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
   

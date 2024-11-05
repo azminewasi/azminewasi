@@ -3,7 +3,7 @@
 ---
 <h3 align="center">
 Machine Learning Researcher</br> 
- (Graph Neural Nets, Medical AI, Human-centric AI & NLP) </br> 
+ (Graph Neural Nets, Biomedical AI, Human-centric AI & NLP) </br> 
 Kaggle Grandmaster | Explorer | Looking for research opportunities
 </h3>
 
@@ -25,7 +25,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - **I am looking forward to pursue a PhD in Fall 2025 to continue research** and looking for potential options.
 - Currently, I'm working with [Riashat Islam](https://riashat.github.io/) (PhD, McGill U. and Mila; Senior Scientist at SDAIA/NCAI) at Mila Quebec on computational structural biology, molecular ML, and generative AI. Previously, I worked with [Prof. Dong-Kyu Chae](http://dilab.hanyang.ac.kr/) at Hanyang University for 2 years on GNNs, Medical AI, and HCI-HAI.
 - Additionally, I founded [CIOL](https://ciol-sust.github.io/) to mentor young researchers and bridge the gap between Industrial Engineering and AI. Here, I collaborate with [Prof. Mahathir M Bappy](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) (Louisiana State Uni.) and [Prof. Manjurul Ahsan](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en) (Uni. of Oklahoma) on GNNs, Digital Twins, AI4Science, PINNs, and Medical AI applications; and guide young researchers. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- My works has been published in prestigious venues such as **LREC-COLING'24, CSCW'24, ICLR'24** Tiny Papers Track, Workshops of **NeurIPS'23, AAAI'24, ICML'24, ACL'24 and CHI'24**, with ongoing reviews in **ACCV'24, TCBB, EMNLP'24**, among others.
+- My works has been published in prestigious venues such as **LREC-COLING'24, CSCW'24, ICLR'24, ACCV'24**, Workshops of **NeurIPS'23, AAAI'24, ICML'24, ACL'24 and CHI'24**, with ongoing reviews in **ACCV'24, TCBB, EMNLP'24**, among others.
 - Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 - Serving as reviewer in top ML conferences, workshops and journals like ACL ARR, ICLR, IDC, ICML, MICCAI regularly; and program chair in multiple ACL'24 workshops.
@@ -35,23 +35,22 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ## [**Research**](https://azminewasi.github.io/) :
   
-- 💠 **Graph Neural Networks (GNN)**: 
-    I am exploring Graph Neural Network or Geometric Machine Learning Theories, applying and improving GNN models and resources in Healthcare (Drugs Discovery, Interactions, Proteins Design & Binding and Micro/Macro-Molecules) [DDI](https://arxiv.org/abs/2403.17210),
-    Knowledge Graphs [BanglaAutoKG](https://arxiv.org/abs/2404.03528) (COLING'24), and Supply Chains [SupplyGraph](https://arxiv.org/abs/2401.15299) (AAAI'24W).
+- 🧬 **Exploring Computational Biology and Biomedical AI Applications**
+  - Working on Computational Molecular Biology, Bioinformatics, and Computational Drug Discovery ([CADGL](https://arxiv.org/abs/2403.17210)).
+  - Exploring problems like molecular properties prediction, protein discovery, binder design and affinity, molecular interactions, structural biology, digital twins design and development, and healthcare optimization ([ICLR'24](https://arxiv.org/abs/2402.13852)).
+  - Worked with de novo protein generation models and experienced with RL-inspired/energy-guided geometric/sequential structural biology modeling tools with GNNs, Flow Matching, GFLowNets and Diffusion models.
+  - Working with [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), [Dr. Islam](https://riashat.github.io/) (Mila Quebec), Prof. Xu (CMU) and [Prof. Ahsan](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en) (OU) on this area.
 
-- 🧬 **Medical AI**: 
-    In Medical AI, I am working on developing AI systems for Healthcare, mainly focusing on Computational Molecular Biology - Neuroscience, Bioinformatics, Computational Drug Discovery [CADGL](https://arxiv.org/abs/2403.17210), 
-    molecular properties prediction, protein discovery, binder design and binding affinity, molecular interactions and affinity, structural biology, and healthcare optimization [Glucose level control](https://arxiv.org/abs/2402.13852) (ICLR'24). I've worked with de novo protein generation (RFDiffusion, FoldFlow, Croma, etc.) models and experienced with RL-inspired/energy-guided geometric/sequential structural biology modeling tools with GNNs, Flow Matching, GFLowNets and Diffusion models. I'm also experienced in computational neuroscience.
+- 💠 **Understanding and Applying Graph Neural Networks (GNN)**
+  - Engaged in Geometric Machine Learning, focusing on GNN theories and applications, with an emphasis on biomedical AI applications as described above.
+  - Additionally, applying GNNs to industrial engineering, specifically in supply chain optimization ([GNNs in SCM](https://drive.google.com/file/d/11Lu60WBl5cOlDA0ZcYYSWnkp4v93UkN3/view?usp=sharing)) and manufacturing.
+  - Interested in the application of knowledge graphs (extending GNNs) across diverse systems and domains ([COLING'24](https://aclanthology.org/2024.lrec-main.189/), [ACL'24W](https://aclanthology.org/2024.kallm-1.6/), [EMNLP'24W](https://arxiv.org/abs/2311.04916)).
+  - Working with [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), [Dr. Islam](https://riashat.github.io/) (Mila Quebec), Prof. Xu (CMU), [Prof. Bappy](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) (LSU), and [CIOL](https://ciol-researchlab.github.io/) researchers on this area.
 
-
-- 🧑‍💻 **Human-Centered AI (HAI)**: 
-    Despite extensive coursework in ergonomics, Human Factors Engineering (HFE), behavior studies, and psychology within our IPE curriculum, there's a notable gap in inter-disciplinary research between IPE and AI in BD.
-    Motivated by this, I am working on integrating HFE [AI Ownership](https://arxiv.org/abs/2404.00027), [Individuality](https://arxiv.org/abs/2404.00026) (CHI'24W),
-    [Ergonomics in [LLMs](https://arxiv.org/abs/2407.02885)/UIs (UIST'24 In Review, ICML'24-W)],
-    Religious/Cultural Bias and prevention (CSCW'24, CHI'24W; EMNLP'25-InReview),
-    Computational Social Science (CSS) [Social Biases](https://heal-workshop.github.io/#:~:text=Exploring%20Bengali%20Religious%20Dialect%20Biases) (CHI'24W),
-    Fairness and Reliability [ARBEx](https://arxiv.org/abs/2309.13402) into AI systems, focusing on HAI perspectives of IPE.
-
+- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**
+  - Despite extensive coursework in ergonomics, human factors, behavior, and psychology within our IPE curriculum, there's a notable gap in inter-disciplinary research between IPE and AI in Bangladesh, which drives my current initiatives in HCI.
+  - Focusing on fairness and reliability (AI for Good), I've worked on evaluating and improving human factors and ergonomics ([ICML'24W and EMNLP'24W](https://arxiv.org/abs/2407.02885)), religious/cultural values ([CSCW'24](https://drive.google.com/file/u/7/d/10TYbrPmd54D4bONz86HaY8vP4Jjcs3iQ/view?usp=drive_link), [CHI'24W](https://arxiv.org/abs/2407.18376), COLING'25 - [1](https://drive.google.com/file/d/11L-jtfG2ORWfDLitC8rheU1dmmEsz89j/view?usp=drive_link), [2](https://drive.google.com/file/d/11Y_jr4tbkGo_f6isUx3-O8NMpoK4OEHi/view?usp=drive_link)) into AI systems, mainly Generative AI and Large Language Models ([ICLR'25](https://openreview.net/forum?id=k3gCieTXeY)).
+  - Working with Cohere for AI Community, [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), and [CIOL](https://ciol-researchlab.github.io/) researchers on this area.
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
   

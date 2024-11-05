@@ -33,7 +33,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ## [**Research**](https://azminewasi.github.io/) :
 
 - 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Focused on molecular biology, bioinformatics, and drug discovery, including problems like protein discovery, molecular interactions, structural biology, and healthcare optimization. Experienced with de novo protein generation, RL-inspired modeling, and advanced tools like GNNs, Flow Matching, GFLowNets, and Diffusion models.
-- 💠 **Understanding and Applying Graph Neural Networks (GNN)**: Specializing in geometric machine learning and GNNs, with applications in biomedical AI, supply chain optimization, and manufacturing. Exploring the extension of GNNs to knowledge graphs for diverse systems and domains.
+- 💠 **Understanding and Applying Graph Neural Networks (GNN)**: Specializing in geometric machine learning and GNNs, with applications in biomedical AI (discussed above), supply chain optimization, and manufacturing. Exploring the extension of GNNs to knowledge graphs for diverse systems and domains.
 - 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: Researching human factors, ergonomics, and cultural values in AI systems, particularly in Generative AI and Large Language Models, with a focus on fairness, reliability, and AI for good.
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)

@@ -31,18 +31,10 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 ---
 
 ## [**Research**](https://azminewasi.github.io/) :
-  
-- 🧬 **Exploring Computational Biology and Biomedical AI Applications**
-  - Working on Computational Molecular Biology, Bioinformatics, and Computational Drug Discovery ([CADGL](https://arxiv.org/abs/2403.17210)). Exploring problems like molecular properties prediction, protein discovery, binder design and affinity, molecular interactions, structural biology, digital twins design and development, and healthcare optimization ([ICLR'24](https://arxiv.org/abs/2402.13852)).
-  - Worked with de novo protein generation models and experienced with RL-inspired/energy-guided geometric/sequential structural biology modeling tools with GNNs, Flow Matching, GFLowNets and Diffusion models. Working with [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), [Dr. Islam](https://riashat.github.io/) (Mila Quebec), Prof. Xu (CMU) and [Prof. Ahsan](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en) (OU) on this area.
 
-- 💠 **Understanding and Applying Graph Neural Networks (GNN)**
-  - Engaged in Geometric Machine Learning, focusing on GNN theories and applications, with an emphasis on biomedical AI applications as described above. Additionally, applying GNNs to industrial engineering, specifically in supply chain optimization ([GNNs in SCM](https://drive.google.com/file/d/11Lu60WBl5cOlDA0ZcYYSWnkp4v93UkN3/view?usp=sharing)) and manufacturing.
-  - Interested in the application of knowledge graphs (extending GNNs) across diverse systems and domains ([COLING'24](https://aclanthology.org/2024.lrec-main.189/), [ACL'24W](https://aclanthology.org/2024.kallm-1.6/), [EMNLP'24W](https://arxiv.org/abs/2311.04916)). Working with [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), [Dr. Islam](https://riashat.github.io/) (Mila Quebec), Prof. Xu (CMU), [Prof. Bappy](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) (LSU), and [CIOL](https://ciol-researchlab.github.io/) researchers.
-
-- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**
-  - Despite extensive coursework in ergonomics, human factors, behavior, and psychology within our IPE curriculum, there's a notable gap in inter-disciplinary research between IPE and AI in Bangladesh, which drives my current initiatives in HCI. Focusing on fairness and reliability (AI for Good), I've worked on evaluating and improving human factors and ergonomics ([ICML'24W and EMNLP'24W](https://arxiv.org/abs/2407.02885)), religious/cultural values ([CSCW'24](https://drive.google.com/file/u/7/d/10TYbrPmd54D4bONz86HaY8vP4Jjcs3iQ/view?usp=drive_link), [CHI'24W](https://arxiv.org/abs/2407.18376), COLING'25 - [1](https://drive.google.com/file/d/11L-jtfG2ORWfDLitC8rheU1dmmEsz89j/view?usp=drive_link), [2](https://drive.google.com/file/d/11Y_jr4tbkGo_f6isUx3-O8NMpoK4OEHi/view?usp=drive_link)) into AI systems, mainly Generative AI and Large Language Models ([ICLR'25](https://openreview.net/forum?id=k3gCieTXeY)).
-  - Working with Cohere for AI Community, [Prof. Chae](http://dilab.hanyang.ac.kr/) (HYU), and [CIOL](https://ciol-researchlab.github.io/) researchers on this area.
+- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Focused on molecular biology, bioinformatics, and drug discovery, including problems like protein discovery, molecular interactions, structural biology, and healthcare optimization. Experienced with de novo protein generation, RL-inspired modeling, and advanced tools like GNNs, Flow Matching, GFLowNets, and Diffusion models.
+- 💠 **Understanding and Applying Graph Neural Networks (GNN)**: Specializing in geometric machine learning and GNNs, with applications in biomedical AI, supply chain optimization, and manufacturing. Exploring the extension of GNNs to knowledge graphs for diverse systems and domains.
+- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: Researching human factors, ergonomics, and cultural values in AI systems, particularly in Generative AI and Large Language Models, with a focus on fairness, reliability, and AI for good.
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
   

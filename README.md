@@ -59,6 +59,5 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
   </br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=azminewasi&theme=github_dark&show_icons=true" height="150"/>
-<a href="https://github.com/azminewasi/online-ml-university"><img src="https://github-readme-stats.vercel.app/api/pin/?username=azminewasi&repo=online-ml-university&theme=github_dark&show_owner=true" height="150"/></a>
 
 </p>

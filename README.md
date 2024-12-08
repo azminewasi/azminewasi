@@ -51,7 +51,6 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
   - Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator using Python, built-in toolkits and ML; 
   - Photo Manipulations at large scale using OpenCV and Pillow; 
   - NLP and CV-based ML models to detect error in textuala and visual contents.
-- Product Development, Project Management, Business Development and Strategic Planning and Analysis.
   
 ---
 

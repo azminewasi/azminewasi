@@ -57,6 +57,6 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 <p align=center>
   </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&theme=github_dark&show_icons=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=azminewasi&theme=github_dark&show_icons=true" height="180"/>
 
 </p>

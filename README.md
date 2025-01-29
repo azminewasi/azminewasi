@@ -24,7 +24,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - An aspiring AI researcher and engineering student, exploring **Graph Neural Networks (GNNs) in Bio-Medical AI**, mainly focusing on **neuro, therapeutic, and molecular ML** domains (AI4Science). Along with GNN, my other research interests include **AI for Science, Human-Centered AI (HCI, HAI) with NLP** for interdisciplinary works.
 - **I am looking forward to pursue a PhD in Spring/Fall 2026 to continue research** and looking for potential options.
 - Currently, I'm working with [Riashat Islam](https://riashat.github.io/) at Mila Quebec on computational structural biology, molecular ML, and generative AI. Previously, I worked with [Prof. Dong-Kyu Chae](http://dilab.hanyang.ac.kr/) at Hanyang University for 2 years on GNNs, Medical AI, and HCI-HAI. Additionally, I founded [CIOL](https://ciol-sust.github.io/) to mentor young researchers and bridge the gap between Industrial Engineering and AI. Here, I collaborate with [Prof. Mahathir M Bappy](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) (Louisiana State Uni.) and [Prof. Manjurul Ahsan](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en) (Uni. of Oklahoma) on GNNs, Digital Twins, AI4Science, PINNs, and Medical AI applications; and guide young researchers. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- My works has been published in prestigious venues such as **LREC-COLING'24, CSCW'24, ICLR'24, ACCV'24**, Workshops of **NeurIPS'23, AAAI'24, ICML'24, ACL'24 and CHI'24**, with ongoing reviews in **ACCV'24, TCBB, EMNLP'24**, among others.
+- My works has been published in prestigious venues such as **ICLR, WWW, COLING, DASFAA, CSCW, ACCV'24**, Workshops of **NeurIPS, AAAI, ICML, ACL and CHI**, with ongoing reviews in some others.
 - Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 
@@ -54,9 +54,13 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
   
 ---
 
-<p align=center>
-  </br>
+<div align=center>
+  
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/azminewasi)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/azminewasi)
+
+  
 
 <img src="https://github-readme-stats.vercel.app/api?username=azminewasi&theme=github_dark&show_icons=true" height="180"/>
 
-</p>
+</div>

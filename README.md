@@ -32,25 +32,33 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ## [**Research**](https://azminewasi.github.io/) :
 
-- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Focused on molecular biology, bioinformatics, and drug discovery, including problems like protein discovery, molecular interactions, structural biology, and healthcare optimization. Experienced with de novo protein generation, RL-inspired modeling, and advanced tools like GNNs, Flow Matching, GFLowNets, and Diffusion models.
-- 💠 **Understanding and Applying Graph Neural Networks (GNN)**: Specializing in geometric machine learning and GNNs, with applications in biomedical AI (discussed above), supply chain optimization, and manufacturing. Exploring the extension of GNNs to knowledge graphs for diverse systems and domains.
-- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: Researching human factors, ergonomics, and cultural values in AI systems, particularly in Generative AI and Large Language Models, with a focus on fairness, reliability, and AI for good.
+- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Working on Computational Molecular Biology,
+Bioinformatics, and Drug Discovery, focusing on molecular property prediction, protein discovery, and binder design.
+Experienced in de novo protein generation, RL/energy-guided modeling with GNNs, Flow Matching, GFlowNets, and
+Diffusion models. Exploring Digital Twins, clinical reasoning and Agentic LLMs for clinical/biomedical applications
+- 💠 **Understanding and Applying Graph Neural Networks (GNN)**:  Engaged in Geometric Machine Learning, focusing on GNN
+theories and applications, with an emphasis on biomedical AI applications as described above. Additionally, applying GNNs
+to industrial engineering, specifically in supply chain optimization and manufacturing. Interested in the application of
+knowledge graphs (extending GNNs) across diverse systems and domains.
+- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: I’m working on RL and reasoning in LLMs, focusing on
+self-verification, uncertainty estimation, and agentic decision-making in generative models, with AI4Good applications. My
+recent work develops trustworthy AI reasoning by integrating RAG, reward-based RL fine-tuning, Digital Twins, and
+structured reasoning to enhance model reliability. Additionally, in AI for Good, I’ve worked on multilinguality, accessibility,
+fairness, human factors, and cultural values in Generative AI and LLMs.
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
   
 ---
 
-## [**Skills**](https://azminewasi.github.io/portfolio.html) :
-- **Programming**: Python (Advanced), C (For Contests), R, SQL.
-- **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, GANs.
-- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Stats-models, Scikitlearn, Keras, Tensorflow, PyTorch.
-- **Data Analysis**: MS Excel, SAS, Tableau, Power BI.
-- **Computational Biology and Bio-molecules**: Molecular Networks, Classification, Molecular Interaction Detection and Classification, Generative Modeling with Flow Matching and Graph Diffusion.
-- **Human-Computer Interaction**: LLM Customization, Survey Design, UI/Framework Design and Development, Data Collection and Analysis.
-- **IT Automation**: 
-  - Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator using Python, built-in toolkits and ML; 
-  - Photo Manipulations at large scale using OpenCV and Pillow; 
-  - NLP and CV-based ML models to detect error in textuala and visual contents.
+## [**Technical and ML Modeling Skills**](https://azminewasi.github.io/portfolio.html) :
+- **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL  
+- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM, Pydantic  
+- **Data Science Techniques**: EDA, Experiment Design, Hypothesis Testing, Sampling, and Data-Driven Decision Making  
+- **Machine Learning Techniques**: Statistical ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), GFlowNets, Flow Matching, Diffusion Models, RL and Reasoning in LLMs, Self-Verification, Uncertainty, Agentic Decision-Making, AI Reasoning, RAG, and Reward-Based RL Fine-Tuning  
+- **Biomedical AI and Clinical Applications**: Molecular Properties, Binder Design, Molecular Interaction, De Novo Protein Design, GNNs, RL/Energy-Guided Modeling, Generative Modeling with Flow Matching and Graph Diffusion, Reward-Based Generative AI, Agentic LLMs, Knowledge Graphs, AI-Based Drug Discovery and Genomics  
+- **Interdisciplinary AI Research**: AI for Good, Multilinguality, Accessibility, Fairness, Human Factors, Local & Cultural Values  
+- **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing  
+
   
 ---
 

@@ -21,10 +21,12 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ---
 ## [**About**](https://azminewasi.github.io/index.html) :
-- An aspiring AI researcher and engineering student, exploring **Graph Neural Networks (GNNs) in Bio-Medical AI**, mainly focusing on **neuro, therapeutic, and molecular ML** domains (AI4Science). Along with GNN, my other research interests include **AI for Science, Human-Centered AI (HCI, HAI) with NLP** for interdisciplinary works.
+- An aspiring AI researcher and engineering student, exploring **AI4Science, Biomedical AI, Graph Neural Networks (GNNs), AI Agents and Reasoning**, with an emphasis on **structural biology, therapeutic, clinical, and molecular ML** domains. Along with GNN, my other research interests include **interdisciplinary** research in **AI agents** and Human-Centered AI (HCI, HAI) with NLP (Multilinguality, Bias and Fairness).
 - **I am looking forward to pursue a PhD in Spring/Fall 2026 to continue research** and looking for potential options.
-- Currently, I'm working with [Riashat Islam](https://riashat.github.io/) at Mila Quebec on Agentic AI and Generative AI, and computational biology - molecular ML. Previously, I worked with [Prof. Dong-Kyu Chae](http://dilab.hanyang.ac.kr/) at Hanyang University for 2 years on GNNs, Medical AI, and HCI-HAI. Additionally, I founded [CIOL](https://ciol-sust.github.io/) to mentor young researchers and bridge the gap between Industrial Engineering and AI. Here, I collaborate with [Prof. Mahathir M Bappy](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) (Louisiana State Uni.) and [Prof. Manjurul Ahsan](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en) (Uni. of Oklahoma) on GNNs, Digital Twins, AI4Science, PINNs, and Medical AI applications; and guide young researchers. I am also a Contributor in Cohere for AI Aommunity and regularly work on Cohere projects. I work as Research Scientist at HerWILL, too. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
-- My works has been published in prestigious venues such as **ICLR, WWW, COLING, DASFAA, CSCW, ACCV'24**, Workshops of **NeurIPS, AAAI, ICML, ACL and CHI**, with ongoing reviews in some others.
+- I'm collaborating with [Riashat Islam](https://riashat.github.io/) (Microsoft Research) on molecular ML, generative AI, and reasoning, and with [Prof. Alshehri](https://www.ai4chemia.org/about) (KSU) on health informatics, GNNs, AI Agents, and GenAI as a visiting researcher.   Previously, I have worked with [Prof. Chae (HYU)](http://dilab.hanyang.ac.kr/) on GNNs, Drug Discovery, and NLP-HCI-HAI, and [Prof. Min Xu (CMU)](https://www.cmu.edu/) on biomolecules.  
+- I also collaborate actively with researchers from Cohere Labs (formerly, Cohere for AI) and Harvard University.  I'm a dedicated participant in [HTGAA 2025 (MIT Media Lab)](https://azminewasi.notion.site/HTGAA-Azmine-Toushik-Wasi-1954d7794a988030930fdc70b988f33e) with regular assignments and final projects (protein engineering).  
+- In [CIOL](https://ciol-researchlab.github.io/), I collaborate with [Prof. AMM Mukaddes (SUST)](https://scholar.google.com/citations?user=HOOJPRYAAAAJ&hl=en), [Prof. Ahsan (OU)](https://scholar.google.com/citations?user=fvWTiS8AAAAJ&hl=en), and [Prof. Bappy (LSU)](https://www.linkedin.com/in/mahathir-mohammad-bappy-b122a978) on GNNs, AI Agents, and digital twins for industrial and medical applications. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
+- My works has been published in prestigious venues such as **ICLR, WWW, COLING, DASFAA, ACCV, CSCW**, Workshops of **NeurIPS, AAAI, ICML, ACL and CHI**, with ongoing reviews in some others.
 - Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 
@@ -32,34 +34,27 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ## [**Research**](https://azminewasi.github.io/) :
 
-- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Working on Computational Molecular Biology,
-Bioinformatics, and Drug Discovery, focusing on molecular property prediction, protein discovery, and binder design.
-Experienced in de novo protein generation, RL/energy-guided modeling with GNNs, Flow Matching, GFlowNets, and
-Diffusion models. Exploring Digital Twins, clinical reasoning and Agentic LLMs for clinical/biomedical applications
-- 💠 **Understanding and Applying Graph Neural Networks (GNN)**:  Engaged in Geometric Machine Learning, focusing on GNN
-theories and applications, with an emphasis on biomedical AI applications as described above. Additionally, applying GNNs
-to industrial engineering, specifically in supply chain optimization and manufacturing. Interested in the application of
-knowledge graphs (extending GNNs) across diverse systems and domains.
-- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: I’m working on RL and reasoning in LLMs, focusing on
-self-verification, uncertainty estimation, and agentic decision-making in generative models, with AI4Good applications. My
-recent work develops trustworthy AI reasoning by integrating RAG, reward-based RL fine-tuning, Digital Twins, and
-structured reasoning to enhance model reliability. Additionally, in AI for Good, I’ve worked on multilinguality, accessibility,
-fairness, human factors, and cultural values in Generative AI and LLMs.
+- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Working on Computational Molecular Biology, Bioinformatics, and Drug Discovery, focusing on molecular property prediction, protein discovery, and binder design. Experienced in de novo protein generation, RL/energy-guided modeling with GNNs, Flow Matching, GFlowNets, and Diffusion models. Exploring Digital Twins, clinical reasoning and Agentic LLMs for clinical/biomedical applications.
+- 💠 **Understanding and Applying Graph Neural Networks (GNN)**:  Engaged in Geometric Machine Learning, focusing on GNN theories and applications, with an emphasis on biomedical AI applications as described above.
+    Additionally, applying GNNs to industrial engineering, specifically in supply chain optimization and manufacturing.
+    Interested in the application of knowledge graphs (extending GNNs) across diverse systems and domains.
+- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: Working on RL and reasoning in LLMs, focusing on self-verification, uncertainty estimation, and agentic decision-making in generative models, with AI4Good applications. My recent work develops trustworthy AI reasoning by integrating RAG, reward-based RL fine-tuning, Digital Twins, and structured reasoning to enhance model reliability. Additionally, in AI for Good, Worked on multilinguality, accessibility, fairness, human factors, and cultural values in Generative AI and LLMs.
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
   
 ---
 
-## [**Technical and ML Modeling Skills**](https://azminewasi.github.io/portfolio.html) :
-- **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL  
-- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM, Pydantic  
-- **Data Science Techniques**: EDA, Experiment Design, Hypothesis Testing, Sampling, and Data-Driven Decision Making  
-- **Machine Learning Techniques**: Statistical ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), GFlowNets, Flow Matching, Diffusion Models, RL and Reasoning in LLMs, Self-Verification, Uncertainty, Agentic Decision-Making, AI Reasoning, RAG, and Reward-Based RL Fine-Tuning  
-- **Biomedical AI and Clinical Applications**: Molecular Properties, Binder Design, Molecular Interaction, De Novo Protein Design, GNNs, RL/Energy-Guided Modeling, Generative Modeling with Flow Matching and Graph Diffusion, Reward-Based Generative AI, Agentic LLMs, Knowledge Graphs, AI-Based Drug Discovery and Genomics  
-- **Interdisciplinary AI Research**: AI for Good, Multilinguality, Accessibility, Fairness, Human Factors, Local & Cultural Values  
-- **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing  
+## [**Technical and ML Modeling Skills**](https://azminewasi.github.io/) :
 
-  
+- **Languages**: Python (Advanced), C, C++, MATLAB, R, SQL
+- **DS & ML Tools (Python)**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, LangChain, VLLM, Pydantic
+- **Data Science Techniques**: EDA, Experiment Design, Hypothesis Testing, Sampling, and Data-Driven Decision Making
+- **Machine Learning Techniques**: Statistical ML Methods, Deep Learning, NLP, Computer Vision, Graph Neural Networks (GNNs), GFlowNets, Flow Matching, Diffusion Models, RL and Reasoning in LLMs, Self-Verification, Uncertainty, Agentic Decision-Making, AI Reasoning, RAG, and Reward-Based RL Fine-Tuning
+- **Biomedical AI and Clinical Applications**: Molecular Properties, Binder Design, Molecular Interaction, De Novo Protein Design, GNNs, RL/Energy-Guided Modeling, Generative Modeling with Flow Matching and Graph Diffusion, Reward-Based Generative AI, Agentic LLMs, Knowledge Graphs, AI-based Drug Discovery and Genomics
+- **Interdisciplinary AI Research**: AI for Good, Multilinguality, Accessibility, Fairness, Human Factors, Local and Cultural Values
+- **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing
+
+
 ---
 
 <div align=center>

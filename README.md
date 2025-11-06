@@ -21,7 +21,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ---
 ## [**About**](https://azminewasi.github.io/index.html) :
-- An aspiring AI researcher and engineering student, exploring **AI4Science, Biomedical AI, Graph Neural Networks (GNNs), AI Agents and Reasoning**, with an emphasis on **structural biology, therapeutic, clinical, and molecular ML** domains. Along with GNN, my other research interests include **interdisciplinary** research in **AI agents** and Human-Centered AI (HCI, HAI) with NLP (Multilinguality, Bias and Fairness).
+- An aspiring AI researcher and engineering student, exploring **Generative AI, Agents and Reasoning, AI4Science, Biomedical AI,** as well as **Human Compuer/AI Interaction and Computational Social Science**. Along with GNN, my other research interests include **interdisciplinary** research in **AI agents** and Human-Centered AI (HCI, HAI) with NLP (Multilinguality, Bias and Fairness).
 - **I am looking forward to pursue a PhD in Spring/Fall 2026 to continue research** and looking for potential options.
 - I collaborate with [Prof. Alshehri (KSU)](https://www.ai4chemia.org/about) on Generative AI, health informatics, GNNs, and AI agents; and [Prof. Chae (HYU)](http://dilab.hanyang.ac.kr/) on GenAI, LLM-HCI, and Biomolecular ML with GNNs.  
 - I also work with [Riashat Islam](https://riashat.github.io/) (Microsoft Research) on molecular ML, GenAI, agents, and reasoning; and with Prof. Min Xu (CMU) on biomolecules.  I actively collaborate with researchers from Cohere Labs (formerly Cohere for AI), Harvard, and more.  Completed [HTGAA 2025 (MIT)](https://azminewasi.notion.site/HTGAA-Azmine-Toushik-Wasi-1954d7794a988030930fdc70b988f33e), focusing on protein engineering.  
@@ -30,17 +30,6 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - Outside research, I have work experience in **AI-integrated IT Automation, Project - Product Management and Analytics** roles. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 
----
-
-## [**Research**](https://azminewasi.github.io/) :
-
-- 🧬 **Exploring Computational Biology and Biomedical AI Applications**: Working on Computational Molecular Biology, Bioinformatics, and Drug Discovery, focusing on molecular property prediction, protein discovery, and binder design. Experienced in de novo protein generation, RL/energy-guided modeling with GNNs, Flow Matching, GFlowNets, and Diffusion models. Exploring Digital Twins, clinical reasoning and Agentic LLMs for clinical/biomedical applications.
-- 💠 **Understanding and Applying Graph Neural Networks (GNN)**:  Engaged in Geometric Machine Learning, focusing on GNN theories and applications, with an emphasis on biomedical AI applications as described above.
-    Additionally, applying GNNs to industrial engineering, specifically in supply chain optimization and manufacturing.
-    Interested in the application of knowledge graphs (extending GNNs) across diverse systems and domains.
-- 🧑‍💻 **Interdisciplinary Research on Humans, AI, and Language**: Working on RL and reasoning in LLMs, focusing on self-verification, uncertainty estimation, and agentic decision-making in generative models, with AI4Good applications. My recent work develops trustworthy AI reasoning by integrating RAG, reward-based RL fine-tuning, Digital Twins, and structured reasoning to enhance model reliability. Additionally, in AI for Good, Worked on multilinguality, accessibility, fairness, human factors, and cultural values in Generative AI and LLMs.
-
-[**View All Publications**](https://azminewasi.github.io/publications.html)
   
 ---
 
@@ -54,7 +43,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - **Interdisciplinary AI Research**: AI for Good, Multilinguality, Accessibility, Fairness, Human Factors, Local and Cultural Values
 - **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing
 
-
+[**View All Publications**](https://azminewasi.github.io/publications.html)
 ---
 
 <div align=center>

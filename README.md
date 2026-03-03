@@ -16,8 +16,6 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
  [![arxiv](https://img.shields.io/badge/arXiv-%2320beff?style=flat-square&amp;logo=arxiv&amp;color=1f1f15)](https://arxiv.org/a/wasi_a_1.html)
  [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&amp;logo=twitter&amp;color=1f1f15)](https://twitter.com/AzmineWasi)
  [![ORCID](https://img.shields.io/badge/ORCID-%2320beff?style=flat-square&amp;logo=orcid&amp;color=1f1f15)](https://orcid.org/my-orcid?orcid=0000-0001-9509-5804)
-
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/azminewasi)
   
 </div>
 

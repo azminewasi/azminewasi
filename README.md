@@ -30,23 +30,19 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - I regularly review for major AI/ML conferences and journals, including **ICML (Gold Reviewer 2026), ICLR, NeurIPS, UAI, AAAI, T-PAMI, ACL, EMNLP, *ACL ARR, CHI, and CSCW**.
 
   
-## 📑 **Research Experiences** :
+## 📑 **Selected Research Experiences** :
 - Visiting Researcher, MBZUAI | April, 2026 - Present
 - Research Collab., Qatar Computing Research Institute | August, 2025 - Present
 - Visiting Researcher, DILab, Hanyang University | October, 2023 - Present
 - Founding Researcher, CIOL | March, 2021 - Present
 - Research Collab., Microsoft Research | January, 2026 - March, 2026
 - Global TA (Volunteer), HTGAA, MIT Media Lab | August, 2025 - February, 2026
-- Group Member, SRI, University of Toronto | October, 2025 - March, 2026
 - Community Researcher, Cohere Labs | August, 2024 - January, 2026
 - Visiting Researcher, AI4CHEMIA, KSU | April, 2025 - September, 2025
 - Fellow (School of AI), Pi School | June, 2025 - August, 2025
-- Global Committed Listener, HTGAA 2025, MIT Media Lab | February, 2025 - May, 2025
-- Participant, AI Winter School 2025, Brown University | January, 2025
 - Student Research Asst., Mila - Quebec AI Institute | May, 2024 - March, 2025
 - Research Intern, Xu Lab, CMU | July, 2024 - December, 2024
 - Computational Neuroscience Summer School, Neuromatch Academy | July, 2024
-- CCAI Summer School, Climate Change AI | June - August, 2024
 
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
@@ -54,8 +50,7 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 
 ## 🫂 **Collaborations and Community** :
 - I collaborate with **Prof. Razzak (MBZUAI)** and **Prof. Chae (HYU)** on GenAI, LLM-HCI, and biomolecular ML; **Riashat Islam, PhD (Microsoft Research)** and **Md Rizwan Parvez, PhD (QCRI)** on biomedical AI, GenAI, agents, and reasoning; **Prof. Alshehri (KSU)** on generative AI and health informatics; researchers from **Cohere Labs** on LLM evaluation, alignment, agents-reasoning, and applications; and **Prof. Min Xu (CMU)** on biomolecules.
-- Founded [CIOL](https://ciol-researchlab.github.io/) to help young AI researchers, working with **Prof. Ahsan (OU)** on human-centric AI, LLM reasoning and agents, and digital twins for industrial and bio/medical applications.
-- Completed [HTGAA 2025 (MIT)](https://azminewasi.notion.site/HTGAA-Azmine-Toushik-Wasi-1954d7794a988030930fdc70b988f33e), focusing on protein engineering, and joined as a Global TA.
+- Founded [CIOL](https://ciol-researchlab.github.io/) to help young AI researchers, working with **Prof. Ahsan (OU)** on human-centric AI, LLM reasoning and agents, and digital twins for industrial and bio/medical applications. Completed [HTGAA 2025 (MIT)](https://azminewasi.notion.site/HTGAA-Azmine-Toushik-Wasi-1954d7794a988030930fdc70b988f33e), focusing on protein engineering, and joined as a Global TA.
 - Outside research, I have 3 years of experience in **AI-driven product/content automation and product and project management**. I'm also the **3rd [Kaggle](https://www.kaggle.com/azminetoushikwasi/) Grandmaster** of BD.
 - Passionate about **learning new things, sharing my knowledge, improving myself regularly, experimenting with acquired skills and challenging my capabilities**. Building an all-in-one free AI/ML resources collection [here](https://github.com/azminewasi/online-ml-university).
 

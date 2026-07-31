@@ -46,3 +46,13 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - **Others**: GitHub, Collaborative Tools (AMs, VS Code, Azure, AnyScale, Replit, Colab, Kaggle), Parallel & Distributed Computing
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)
+
+
+---
+
+
+<div align=center>
+ 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=azminewasi&rank_icon=github&hide_title=true&show_icons=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=azminewasi&rank_icon=github&hide_title=true&show_icons=true&theme=dark)
+
+</div>

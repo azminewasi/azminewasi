@@ -36,13 +36,8 @@ Kaggle Grandmaster | Explorer | Looking for research opportunities
 - Visiting Researcher, DILab, Hanyang University | October, 2023 - Present
 - Founding Researcher, CIOL | March, 2021 - Present
 - Research Collab., Microsoft Research | January, 2026 - March, 2026
-- Global TA (Volunteer), HTGAA, MIT Media Lab | August, 2025 - February, 2026
 - Community Researcher, Cohere Labs | August, 2024 - January, 2026
-- Visiting Researcher, AI4CHEMIA, KSU | April, 2025 - September, 2025
 - Fellow (School of AI), Pi School | June, 2025 - August, 2025
-- Student Research Asst., Mila - Quebec AI Institute | May, 2024 - March, 2025
-- Research Intern, Xu Lab, CMU | July, 2024 - December, 2024
-- Computational Neuroscience Summer School, Neuromatch Academy | July, 2024
 
 
 [**View All Publications**](https://azminewasi.github.io/publications.html)

@@ -3,8 +3,9 @@
 ---
 <h3 align="center">
 Machine Learning Researcher</br> 
-(Agents, Reasoning, Alignment & Safety; Health and AI4Science; Human-AI Interaction)</br>
-Kaggle Grandmaster | Explorer | Looking for research opportunities
+(Grounding-Reasoning-Interpretability; Agents, Alignment & Safety; AI for Health and Science)
+</br>
+Explorer | Looking for Research Internships
 </h3>
 
 <div align=center>
